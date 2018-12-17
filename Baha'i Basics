@@ -1,0 +1,408 @@
+[{
+	"category": "Category: Baha'i Basics",
+	"question": "The first month of the Baha'i Year is called what?",
+	"answers": [
+		"Ala",
+		"Mulk",
+		"Baha",
+		"Masa'il"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "Baha is the first month of the Baha'i year."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Each Baha'i month lasts for how many days?",
+	"answers": [
+		"19",
+		"21",
+		"28",
+		"30"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "Each month has 19 days."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What does Naw Ruz mark the end of?",
+	"answers": [
+		"Ayyam'i'Ha",
+		"The days of sorrow.",
+		"The celebration of Ridvan",
+		"Naw Ruz"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "After the 19 days of fasting, we enjoy Naw-Ruz. Hooray! Let's eat!"
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What year did Abdu'l Baha first visit the U.S.?",
+	"answers": [
+		"1909",
+		"1912",
+		"1915",
+		"1920"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "Abdu'l-Baha visited the U.S. in 1912."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What does 'The Bab' mean? ",
+	"answers": [
+		"Bridge",
+		"The Mahdi",
+		"Gate",
+		"Beloved"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "The word Bab in Arabic means Gate."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "On what date did the Bab declare his mission?",
+	"answers": [
+		" April 21, 1843",
+		" May 23, 1844",
+		" June 2, 1845  ",
+		" May 30, 1849"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The Bab declared himself to Mulla Husayn on May 23, 1844."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": " What was the Bab's name at birth?  ",
+	"answers": [
+		"Siyyid 'Ali-Muhammad",
+		"Siyyid Allah Muhammed",
+		"Siyyid Kazim-Rashti",
+		"Siyyid Husayn Ali"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "The Bab's birth name was Siyyid 'Ali-Muhammad."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What is the month of Fasting called?",
+	"answers": [
+		"Baha",
+		"Jamal",
+		"Nur",
+		"Ala"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "The month of fasting is called Ala. "
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Kitab i Aqdas is known in English as?",
+	"answers": [
+		"The Most Great Book",
+		"The Book of Revelation",
+		"The book of Certitude",
+		"The Most Holy Book"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "The Kitab'i-Aqdas is known as The Most Holy Book."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What city is the Shrine of the Bab located in?",
+	"answers": [
+		"Acca",
+		"Haifa",
+		"Carmel",
+		"Teheran"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The shrine of the Bab is located on Mount Carmel in Haifa Israel."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Bab foretold the coming of what prophet?",
+	"answers": [
+		"Baha'u'llah",
+		"Muhammad",
+		"Zoroaster",
+		"Jesus"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "The Bab foretold the coming of Baha'u'llah."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Whom did Bahá’u’lláh appoint as his successor?",
+	"answers": [
+		"Abdu’l-Bahá",
+		"Shoghi Effendi",
+		"Shaykh Ahmad",
+		"The Universal House of Justice"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "Bahá’u’lláh appointed Abdu'l-Baha as his successor."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Bahá’í calendar starts from which year?",
+	"answers": [
+		"1817",
+		"1844",
+		"1853",
+		"1893"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The Baha'i calendar began in the year 1844."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What is the name of the elected world body which handles the affairs of the Faith?",
+	"answers": [
+		"The Social Development Council",
+		"The Eternal House of Progress",
+		"The Universal House of Justice",
+		"The Spitual Unity Cooperative"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "The Universal House of Justice is the supreme elected body of the world."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What is the most fundamental teaching of the Bahá’í Faith?",
+	"answers": [
+		"Detachment",
+		"Honesty",
+		"Equality",
+		"Unity"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "Unity is the most fundimental teaching of the Bahá’í Faith."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "How many years did Baha'u'llah say would pass before another Messenger of God would appear?",
+	"answers": [
+		"900 years",
+		"1000 years",
+		"2000 years",
+		"He did not say."
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "Baha'u'llah said that it would be at least 1000 before another Messenger would appear."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Which of the following should Bahá’ís avoid?",
+	"answers": [
+		"Shellfish",
+		"Medicines",
+		"Alcohol",
+		"Pork"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "Avoid Alcohol"
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Which of the following are not exempt from fasting?",
+	"answers": [
+		"Anyone over 70",
+		"Anyone who is pregnant or nursing",
+		"Anyone who works as a chef in a restraunt",
+		"Anyone doing heavy manual labour"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "Wven if you work as a chef in a restraunt, you should still fast. "
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Bahá’u’lláh forbids backbiting. What does this mean?",
+	"answers": [
+		"Arguing with someone",
+		"Talking about people in their absence.",
+		"Being rude to your parrents.",
+		"Giving someone the evil eye."
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "Talking about people in their absence. "
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "When saying a daily obligatory prayer, a Bahá’í should turn towards which holy place?",
+	"answers": [
+		"The Shrine of the Báb in Haifa, Israel",
+		"The House of Bahá’u’lláh in Baghdad, Iraq",
+		"The House of Bahá’u’lláh in Edirne, Turkey",
+		"The Shrine of Bahá’u’lláh near Akka, Israel"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "Baha'is should face The Shrine of Bahá’u’lláh near Akka, Israel"
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Which of these is sometimes used as a greeting by the Bahá’ís?",
+	"answers": [
+		"Peace be upon you.",
+		"May God's light shine on you.",
+		"Alláh-u-Abhá",
+		"Alláh-u-Akbar"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "Alláh-u-Abhá meaning God is the Most Glorious is often used as a greeeting."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": " Baha'is must obtain their parents’ permission to:",
+	"answers": [
+		"Leave home",
+		"Get married",
+		"Date someone parents do not approve of",
+		"Play video games"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "You can do as you like but do need your parents permission to marry."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Which of these is a Baha'i burial law.",
+	"answers": [
+		"The body must be wrapped in a pure white shroud.",
+		"The body should be buried less than an hour’s journey from the place of death.",
+		"The deceased's family should wear black as a sign of respect.",
+		"All the person’s valuable possessions should also be placed in the grave "
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The deceased should be buried less than an hour’s journey from the place of death."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "On the first day of each Bahá’í month, there is a meeting of each local Bahá’í community.What is this called?",
+	"answers": [
+		"The Day of Spirituality",
+		"The Feasting Day",
+		"The Day of the Covenant.",
+		"The Nineteen Day Feast."
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "Baha'is gather for The Nineteen Day Feast"
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "How many Holy Days are there during the year on which work should be suspended.",
+	"answers": [
+		"6",
+		"9",
+		"10",
+		"19"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "There are nine holy days. Check them out."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "How does a person join the Bahá’í community",
+	"answers": [
+		"By completing a sequence of courses and getting a passing grade.",
+		"By declaring their belief in Bahá’u’lláh as a messenger of God.",
+		"By undergoing a secret initiation ceremony",
+		"By paying a subscription fee and signing a membership form"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "By declaring belief in Bahá’u’lláh as a messenger of God, and a willingness to follow his teachings."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Which is the most important Bahá’í festival?",
+	"answers": [
+		"Naw-Ruz",
+		"The 12 Days of Ridván",
+		"The day of the Covenant",
+		"Ayyam'i-Ha because I get presents!"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The 12 days of Ridvan during which Bahá’u’lláh announced his mission to his followers."
+},{
+	"category": "Category: Baha'i ",
+	"question": "Nine elected members make up this institution that guides the development of the Baha'i world.",
+	"answers": [
+		"The Universal House of Justice",
+		"The United Nations",
+		"The Universal Board of Councelors",
+		"The International House of Pancakes"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "The Universal House of Justice is made up of nine elected members."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "How long do terms on the Universal House of Justice last? ",
+	"answers": [
+		"4 years",
+		"5 years",
+		"7 years",
+		"They change at the end of each plan"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "Each term lasts 5 years."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Which is not an elected position in the Baha'i Faith?",
+	"answers": [
+		"National Spiritual Assembly",
+		"Local Spiritual Assembly",
+		"Continental board of couuncelors"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "Continental board of couuncelors are appointed not elected. "
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God",
+	"answers": [
+		"Progressive Revelaation",
+		"The Holy Trinity",
+		"The Eternal Progression",
+		"The Holy Multitude"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "The Baha'i principle in which humanity will always be guided by a series of Messengers sent by God is known as Progressive revelation."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Baha'u'llah teaches that heaven and hell are:",
+	"answers": [
+		"are to be understood symbolically",
+		"are real places.",
+		"are nonexistent because our souls cease to exist after death."
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "are to be understood symbolically and describe a state of nearness to or distance from God."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Baha'u'llah teaches that the purpose of this life is:",
+	"answers": [
+		"to acquire wealth and happiness. ",
+		"to study religion.",
+		"to develop virtues in preparation for the next world.",
+		"to receive and dispense justice."
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "We are in this world to develop virtues in preparation for the next world"
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "How should people find spiritual truth?",
+	"answers": [
+		"By following their parent's religion.",
+		"Though rejection of material things.",
+		"By learning from the clergy.",
+		"By investigating truth for themselves."
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "Independent investigation of truth."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Baha’is see God as completely __________ and transcendent.",
+	"answers": [
+		" ",
+		" ",
+		" ",
+		" "
+	],
+	"correctAnswerIndex": 3,
+	"feedback": " "
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "",
+	"answers": [
+		" ",
+		" ",
+		" ",
+		" "
+	],
+	"correctAnswerIndex": 3,
+	"feedback": " "
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "",
+	"answers": [
+		" ",
+		" ",
+		" ",
+		" "
+	],
+	"correctAnswerIndex": 3,
+	"feedback": " "
+}
+]
+
