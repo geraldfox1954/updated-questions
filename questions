@@ -1,0 +1,179 @@
+[{
+	"category": "Category: Baha'i Basics",
+	"question": "The first month of the Baha'i Year is called what?",
+	"answers": [
+		"Ala",
+		"Mulk",
+		"Baha",
+		"Masa'il"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "Baha is the first month of the Baha'i year."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Each Baha'i month lasts for how many days?",
+	"answers": [
+		"19",
+		"21",
+		"28",
+		"30"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "Each month has 19 days."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What does Naw Ruz mark the end of?",
+	"answers": [
+		"Ayyam'i'Ha",
+		"The days of sorrow.",
+		"The celebration of Ridvan",
+		"Naw Ruz"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "After the 19 days of fasting, we enjoy Naw-Ruz. Hooray! Let's eat!"
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What year did Abdu'l Baha first visit the U.S.?",
+	"answers": [
+		"1909",
+		"1912",
+		"1915",
+		"1920"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "Abdu'l-Baha visited the U.S. in 1912."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What does 'The Bab' mean? ",
+	"answers": [
+		"Bridge",
+		"The Mahdi",
+		"Gate",
+		"Beloved"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "The word Bab in Arabic means Gate."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "On what date did the Bab declare his mission?",
+	"answers": [
+		" April 21, 1843",
+		" May 23, 1844",
+		" June 2, 1845  ",
+		" May 30, 1849"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The Bab declared himself to Mulla Husayn on May 23, 1844."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": " What was the Bab's name at birth?  ",
+	"answers": [
+		"Siyyid 'Ali-Muhammad",
+		"Siyyid Allah Muhammed",
+		"Siyyid Kazim-Rashti",
+		"Siyyid Husayn Ali"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "The Bab's birth name was Siyyid 'Ali-Muhammad."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What is the month of Fasting called?",
+	"answers": [
+		"Baha",
+		"Jamal",
+		"Nur",
+		"Ala"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "The month of fasting is called Ala. "
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Kitab i Aqdas is known in English as?",
+	"answers": [
+		"The Most Great Book",
+		"The Book of Revelation",
+		"The book of Certitude",
+		"The Most Holy Book"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "The Kitab'i-Aqdas is known as The Most Holy Book."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What city is the Shrine of the Bab located in?",
+	"answers": [
+		"Acca",
+		"Haifa",
+		"Carmel",
+		"Teheran"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The shrine of the Bab is located on Mount Carmel in Haifa Israel."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Bab foretold the coming of what prophet?",
+	"answers": [
+		"Baha'u'llah",
+		"Muhammad",
+		"Zoroaster",
+		"Jesus"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "The Bab foretold the coming of Baha'u'llah."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "Whom did Bahá’u’lláh appoint as his successor?",
+	"answers": [
+		"Abdu’l-Bahá",
+		"Shoghi Effendi",
+		"Shaykh Ahmad",
+		"The Universal House of Justice"
+	],
+	"correctAnswerIndex": 0,
+	"feedback": "Bahá’u’lláh appointed Abdu'l-Baha as his successor."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "The Bahá’í calendar starts from which year?",
+	"answers": [
+		"1817",
+		"1844",
+		"1853",
+		"1893"
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "The Baha'i calendar began in the year 1844."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What is the name of the elected world body which handles the affairs of the Faith?",
+	"answers": [
+		"The Social Development Council",
+		"The Eternal House of Progress",
+		"The Universal House of Justice",
+		"The Spitual Unity Cooperative"
+	],
+	"correctAnswerIndex": 2,
+	"feedback": "The Universal House of Justice is the supreme elected body of the world."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "What is the most fundamental teaching of the Bahá’í Faith?",
+	"answers": [
+		"Detachment",
+		"Honesty",
+		"Equality",
+		"Unity"
+	],
+	"correctAnswerIndex": 3,
+	"feedback": "Unity is the most fundimental teaching of the Bahá’í Faith."
+},{
+	"category": "Category: Baha'i Basics",
+	"question": "How many years did Baha'u'llah say would pass before another Messenger of God would appear?",
+	"answers": [
+		"900 years",
+		"1000 years",
+		"2000 years",
+		"He did not say."
+	],
+	"correctAnswerIndex": 1,
+	"feedback": "Baha'u'llah said that it would be at least 1000 before another Messenger would appear."
+}
+]
+
