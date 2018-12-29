@@ -525,13 +525,7 @@
 		"answers": ["Attributes of God", "The power of God", "Traditional Persian months", "The will of God"],
 		"correctAnswerIndex": 0,
 		"feedback": "These are all attributes of God."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What Bahá’ í month does Ayyam - i - Ha fall into ? ",
-		"answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’ í month."],
-		"correctAnswerIndex": 3,
-		"feedback:": "It does not fall in any month but is between the months of Mulk and Ala."
-	}, {
+	},  {
 		"category": "Category: Bahá’í Basics",
 		"question": "How many days is the festival of Ridván",
 		"answers": ["2", "5", "9", "12"],
@@ -569,5 +563,12 @@
 		],
 		"correctAnswerIndex": 3,
 		"feedback": "It means to begin anew or wondrous."
+	},
+	{
+		"category": "Category: Bahá’í Basics",
+		"question": "What Baha’ í month does Ayyam - i - Ha fall into ? ",
+		"answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’ í month."],
+		"correctAnswerIndex": 3,
+		"feedback:": "It does not fall in any month but is between the months of Mulk and Ala."
 	}
 ]
