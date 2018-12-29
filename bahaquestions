@@ -566,8 +566,9 @@
 	},
 	{
 		"category": "Category: Bahá’í Basics",
-		"question": "What Baha’ í month does Ayyam - i - Ha fall into ? ",
-		"answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’ í month."],
+		"question": "What Baha’í month does Ayyam-i-Ha fall into ? ",
+		"answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’ í month."
+		],
 		"correctAnswerIndex": 3,
 		"feedback:": "It does not fall in any month but is between the months of Mulk and Ala."
 	}
