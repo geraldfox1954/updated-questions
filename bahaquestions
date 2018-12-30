@@ -525,7 +525,7 @@
 		"answers": ["Attributes of God", "The power of God", "Traditional Persian months", "The will of God"],
 		"correctAnswerIndex": 0,
 		"feedback": "These are all attributes of God."
-	},  {
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "How many days is the festival of Ridván",
 		"answers": ["2", "5", "9", "12"],
@@ -567,9 +567,118 @@
 	{
 		"category": "Category: Bahá’í Basics",
 		"question": "What Baha’í month does Ayyam-i-Ha fall into ? ",
-		"answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’ í month."
-		],
+		"answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’ í month."],
 		"correctAnswerIndex": 3,
 		"feedback:": "It does not fall in any month but is between the months of Mulk and Ala."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Every human being possesses an _________, rational soul.",
+		"answers": ["immortal", "massive", "long living", "temporary"],
+		"correctAnswerIndex": 0,
+		"feedback:": "Every human being possesses an immortal, rational soul."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "The soul continues for _________ to advance towards God.",
+		"answers": ["a lifetime", "a really long time", "eternity", "many years"],
+		"correctAnswerIndex": 2,
+		"feedback:": "Good News! The soul continues for eternity to advance towards God."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "The Bahá’í Writings explain that the ________ is beyond the understanding of any mortal mind.",
+		"answers": ["reality of man", "depths of physics", "mastery of philosophy", "reality of God"],
+		"correctAnswerIndex": 3,
+		"feedback:": "The Bahá’í Writings explain that the reality of God is beyond the understanding of any mortal mind."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Through the teachings of the Manifestations of God, humanity’s spiritual, intellectual and _____ capacities have been cultivated.",
+		"answers": ["mental", "moral", "material", "managable"],
+		"correctAnswerIndex": 1,
+		"feedback:": "Through the teachings of the Manifestations of God, humanity’s spiritual, intellectual and moral capacities have been cultivated."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Humanity, having passed through the ages of infancy and childhood, now stands at the threshold of its collective ________",
+		"answers": ["mendacity", "maturity", "monetary", "mental"],
+		"correctAnswerIndex": 1,
+		"feedback:": "Humanity, having passed through the ages of infancy and childhood, now stands at the threshold of its collective maturity."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": " The hallmark of mankind's maturity will be the __________.",
+		"answers": ["extirmination of the human race.", "scientific progress of the human race.", "education of the inhuman race.", "unification of the human race"],
+		"correctAnswerIndex": 3,
+		"feedback:": "The hallmark of mankind's maturity will be the unification of the human race."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Baha'is believe there is/are:",
+		"answers": ["four human races.", "five human races.", "three distinct human races.", "one human race."],
+		"correctAnswerIndex": 3,
+		"feedback:": "Baha'is believe there is only one race...The Human Race."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "The Baha'is believe in the adoption of a universal _____ auxiliary language",
+		"answers": ["auxiliary", "English", "computer", "spiritual"],
+		"correctAnswerIndex": 0,
+		"feedback:": "The Baha'is believe in the adoption of a universal auxiliary language."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Humanity is emerging from childhood and approaching ________ .",
+		"answers": ["disaster", "old age", "balance", "maturity"],
+		"correctAnswerIndex": 3,
+		"feedback:": "Humanity is finally approaching maturity. I can't wait!"
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Baha'is share a common goal of ______ and refining their inner-lives",
+		"answers": ["sharing humanity", "playing humanely", "serving humanity", "plotting revengefully"],
+		"correctAnswerIndex": 2,
+		"feedback:": "Serving humanity is the goal."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "________ are at the heart of the pattern of Baha'i community life",
+		"answers": ["Servants and worship", "Savants and willingness ", "Servings and well being", "Service and worship"],
+		"correctAnswerIndex": 3,
+		"feedback:": "Service and worship are at the heart of the Baha'i lifestyle."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "_________ acknowledges that the wealth of cultural diversity is vital to the development of the human race.",
+		"answers": ["Ornery and Durability", "Unity in Diversity", "Kindness in Obscurity", "Unity and Bio-diversity"],
+		"correctAnswerIndex": 3,
+		"feedback:": "Unity in Diversity is an appreciation of the diversity of human life and culture."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Bahá'ís also believe that ______ are equally immoral and should be reduced.",
+		"answers": ["indescretions such as prolixity ", "inequalities such as poverty", "individuality of profession", "increase of police"],
+		"correctAnswerIndex": 1,
+		"feedback:": "Extremes of wealth and poverty must be addressed."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "The integration of devotion and service finds expression in the institution of the _______.",
+		"answers": ["Mashriq'i - Aqár", "Mashad i Idhkár", "Mashi’l-Abdaás", "Mashriqu’l-Adhkár"],
+		"correctAnswerIndex": 3,
+		"feedback:": "Mashriqu’l-Adhkár or the House of Worship is the institution."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Bahá'ís believe that _____ distinction are not part of God's plan and are unnatural additions to the natural order of things.",
+		"answers": [" prejudice and racial", "purposeful rationality", "kindness and compassion", "peace and harmony"],
+		"correctAnswerIndex": 0,
+		"feedback:": "Prejudice and racial distinction are not part of God's plan."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Bahá'ís believe that humanity must now move forward to global maturity, recreating itself as a ",
+		"answers": ["single human bean", "single human culture", "single human being", "single human family"],
+		"correctAnswerIndex": 3,
+		"feedback:": "We should move towards being a single human family."
+
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Mashriqu’l-Adhkár, translated means “______.",
+		"answers": ["“The Place of prayer.", "The Dawning Place of the Mention of God.", "“The Center of the House of God.", "The Place of God."],
+		"correctAnswerIndex": 3,
+		"feedback:": "Mashriqu’l-Adhkár, translated means “The Dawning Place of the Mention of God."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Baha'is are working to contribute to the advancement of ___ civilization.",
+		"answers": ["maternal and social", "manditory and spiritual", "  material and spiritual", "marshmallow and sweet"],
+		"correctAnswerIndex": 2,
+		"feedback:": "Material and spiritual advancement."
 	}
+
 ]
