@@ -113,7 +113,7 @@
     "category": "Category: Bahá’í Basics",
     "question": "The Báb foretold the coming of what prophet?",
     "answers": [
-      "Bahá u lláh”",
+      "Bahá'u'lláh”",
       "Muhammad",
       "Zoroaster",
       "Jesus"
@@ -159,7 +159,7 @@
     "answers": [
       "Detachment",
       "Honesty",
-      "Equality",
+      "Happiness",
       "Unity"
     ],
     "correctAnswerIndex": 3,
@@ -182,7 +182,7 @@
       "Shellfish",
       "Medicines",
       "Alcohol",
-      "Pork"
+      "Chicken Salad"
     ],
     "correctAnswerIndex": 2,
     "feedback": "The drinking of wine… is, according to the text of the Most Holy Book, forbidden; for it is the cause of chronic diseases, weakeneth the nerves, and consumeth the mind.Abdu’ l - Bahá "
@@ -197,7 +197,7 @@
       "Anyone doing heavy manual labour"
     ],
     "correctAnswerIndex": 2,
-    "feedback": "When if you work as a chef in a restaurant, you should still fast. "
+    "feedback": "When if you work as a chef in a restaurant, you should still fast. Sorry! "
   },
   {
     "category": "Category: Bahá’í Basics",
@@ -241,11 +241,11 @@
     "answers": [
       "Leave home",
       "Get married",
-      "Date someone parents do not approve of",
+      "Date someone at college",
       "Play video games"
     ],
     "correctAnswerIndex": 1,
-    "feedback": "You can do as you like but do need your parents permission to marry."
+    "feedback": "You can do as you like but you do need your parents permission to marry."
   },
   {
     "category": "Category: Bahá’í Basics",
@@ -337,7 +337,8 @@
     "answers": [
       "National Spiritual Assembly",
       "Local Spiritual Assembly",
-      "Continental board of counselors"
+      "Continental board of counselors",
+       "Universal House of Justice member"
     ],
     "correctAnswerIndex": 2,
     "feedback": "Continental board of ounselors are appointed not elected. "
@@ -363,7 +364,7 @@
       "are nonexistent because our souls cease to exist after death."
     ],
     "correctAnswerIndex": 0,
-    "feedback": "are to be understood symbolically and describe a state of nearness to or distance from God."
+    "feedback": "They are to be understood symbolically and describe a state of nearness to or distance from God."
   },
   {
     "category": "Category: Bahá’í Basics",
@@ -425,15 +426,15 @@
   },
   {
     "category": "Category: Bahá’í Basics",
-    "question": "How should people find spiritual truth?",
+    "question": "How many terms can a UHJ member serve?",
     "answers": [
-      "By following their parent's religion.",
-      "Though rejection of material things.",
-      "By learning from the clergy.",
-      "By investigating truth for themselves."
+      "Two five year terms.",
+      "Three four year terms.",
+      "Until they turn 70",
+      "There is no limit."
     ],
     "correctAnswerIndex": 3,
-    "feedback": "Independent investigation of truth."
+    "feedback": "There is no term limit."
   }, {
     "category": "Category: Bahá’í Basics",
     "question": "How many days each year do Bahá’ís fast?",
@@ -460,7 +461,7 @@
     "category": "Category: Bahá’í Basics",
     "question": "During the Fast, Baha'is are to abstain from food, water and smoking from sunrise to sunset. Which of these are not prohibited? ",
     "answers": [
-      "food", "water", "smoking", "talking about how hungry they are."
+      "food", "water", "beer", "talking about how hungry they are."
     ],
     "correctAnswerIndex": 3,
     "feedback": " While it may be counter productive to a good fast, whining is not expressly forbidden."
@@ -475,7 +476,7 @@
     "question": "The Bahai faith promotes the agreement of:",
     "answers": [
       "science and religion",
-      "men and women",
+      "men and chickens",
       "education and language",
       "belief and superstition"
     ],
@@ -490,7 +491,7 @@
       "Morning, noon and in the evening",
       "Whenever there is a commercial on TV."
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 0,
     "feedback": " Every morning and evening. Of course, you can pray and read at other times as well."
   }, {
     "category": "Category: Bahá’í Basics",
@@ -503,23 +504,17 @@
   },
   {
     "category": "Category: Bahá’í Basics",
-    "question": "This will enable them to qualify and progress in all degrees of occupation and accomplishment. Who is them ? ",
-    "answers": ["all people", "women", "souls", "men"],
+    "question": "This will enable them to qualify and progress in all degrees of occupation and accomplishment. Who is this quote about? ",
+    "answers": ["all people", "women", "souls", "doves"],
     "correctAnswerIndex": 1,
     "feedback": "There must be an equality of rights between men and women. Women shall receive an equal privilege of education. This will enable them . . ."
   }, {
     "category": "Category: Bahá’í Basics",
-    "question": "Which of these is NOT a Baha’i Month ?",
+    "question": "Which of these is NOT a Baha’i Month?",
     "answers": ["Glory", "Beauty", "Charity", "Knowledge"],
     "correctAnswerIndex": 2,
     "feedback": "While charity is a wonderful thing, it is not one of the named Bahá’ í months."
-  }, {
-    "category": "Category: Bahá’í Basics",
-    "question": "Which of these is NOT a Baha’i Month?",
-    "answers": ["Names", "Questions", "Dominion", "Harmony"],
-    "correctAnswerIndex": 3,
-    "feedback": "I love harmony and it is important but is not a month name."
-  }, {
+  },  {
     "category": "Category: Bahá’í Basics",
     "question": "What are the Baha’i months named for?",
     "answers": ["Attributes of God", "The power of God", "Traditional Persian months", "The will of God"],
@@ -536,14 +531,14 @@
     "question": "Which of these is NOT a Baha’ i Holy day ?",
     "answers": ["Naw - Ruz", "Birth of Abdu’ l - Baha", "Day of the Covenant", "Declaration of the Báb"],
     "correctAnswerIndex": 1,
-    "feedback": "The birth of Abdu’ l - Baha is not one of the Holy Days."
+    "feedback": "The birth of Abdu’l-Baha is not one of the Holy Days."
   },
   {
     "category": "Category: Bahá’í Basics",
     "question": "This time commemorates the public proclamation of Baha’ u’ llah’ s mission as God’ s messenger for this age.",
     "answers": ["Ridvan", "Naw Ruz", "Ayyam’ i’ Ha", "Day of the Covenant"],
     "correctAnswerIndex": 0,
-    "feedback": "Ridvan is the time when Baha’ u’ llah declared his mission."
+    "feedback": "Ridvan is the time when Bahá’u’lláh declared his mission."
   },
   {
     "category": "Category: Bahá’í Basics",
@@ -562,12 +557,12 @@
       "To create anew."
     ],
     "correctAnswerIndex": 3,
-    "feedback": "It means to begin anew or wondrous."
+    "feedback": "It means to begin anew or wondrous. "
   },
   {
     "category": "Category: Bahá’í Basics",
     "question": "What Baha’í month does Ayyam-i-Ha fall into ? ",
-    "answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’ í month."],
+    "answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’í month."],
     "correctAnswerIndex": 3,
     "feedback:": "It does not fall in any month but is between the months of Mulk and Ala."
   }, {
@@ -640,7 +635,7 @@
     "category": "Category: Bahá’í Basics",
     "question": "_________ acknowledges that the wealth of cultural diversity is vital to the development of the human race.",
     "answers": ["Ornery and Durability", "Unity in Diversity", "Kindness in Obscurity", "Unity and Bio-diversity"],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 1,
     "feedback:": "Unity in Diversity is an appreciation of the diversity of human life and culture."
   }, {
     "category": "Category: Bahá’í Basics",
@@ -671,7 +666,7 @@
     "category": "Category: Bahá’í Basics",
     "question": "Mashriqu’l-Adhkár, translated means “______.",
     "answers": ["“The Place of prayer.", "The Dawning Place of the Mention of God.", "“The Center of the House of God.", "The Place of God."],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 1,
     "feedback:": "Mashriqu’l-Adhkár, translated means “The Dawning Place of the Mention of God."
   }, {
     "category": "Category: Bahá’í Basics",
