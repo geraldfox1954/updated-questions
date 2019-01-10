@@ -674,6 +674,492 @@
 		"answers": ["maternal and social", "manditory and spiritual", "  material and spiritual", "marshmallow and sweet"],
 		"correctAnswerIndex": 2,
 		"feedback:": "Material and spiritual advancement."
-	}
+	},
 
+  {
+		"category": "Category: Global Faith I",
+		"question": "In Islam, what is the Shahada?",
+		"answers": [
+			"Profession of Faith",
+			"Expression of Courtesy",
+			"Prayer and Fasting",
+			"The point of Adoration"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The Profession of Faith 'There is no God but God and Muhammad is his prophet.'"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "How many times each day do Muslims pray?",
+		"answers": [
+			"3",
+			"5",
+			"7",
+			"9"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Muslims are expected to pray five times a day."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which of these is not one of the pillars of Islamic belief?",
+		"answers": [
+			"Giving Alms to those who are less fortunate.",
+			"Going on pilgrimage to Mecca",
+			"Daily Prayer ",
+			"Avoiding unclean foods like pork."
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "While muslims do not eat pork, it is not one of the five pillars of Islam."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "How many times do the Muslims circumambulate the Kaabah?",
+		"answers": [
+			"1",
+			"3",
+			"5",
+			"7"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Muslims circumambulate the Kaabah Seven Times, this is called Tawaf"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which Islamic principle does the Hajj demonstrate?",
+		"answers": [
+			"Submission to the Will of God",
+			"Equality and universal brotherhood",
+			"Obedience and Certitude",
+			"Importance of charity"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Muslims gather to meet one another and demonstrate to each other, and the world, that they are united. Unity in diversity and universal brotherhood."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What was the first article laid down by the Prophet Muhammad (PBUH) for the inhabitants of Medina?",
+		"answers": [
+			"All were considered members and citizens of Medina society regardless of religion, race, or ancestry",
+			"Only Muslims were given shelter in Medina",
+			"Other groups were asked to leave Medina",
+			"Muslims were given special powers"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "All were considered members and citizens of Medina society regardless of religion, race, or ancestry."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "According to Islam, which scripture was revealed to Prophet Moses?",
+		"answers": [
+			"Zabur (Psalms) was revealed to the Prophet Moses.",
+			"Torah (Old Testament) was revealed to the Prophet Moses.",
+			"The Book of Leviticus was revealed to the Prophet Moses",
+			"Muslims do not accapt that the Prophet Moses received any revelation."
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Quran mentions that the Torah (Old Testament) was revealed to the Prophet Moses"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What does the Quran say about the use of force to spread the religion?",
+		"answers": [
+			"The Quran authorizes use of force for spreading the religion only if necessary. (Quran 2:256)",
+			"The Quran says '..Let there be no compulsion in religion..' (Quran 2:256)",
+			"There is no mention in the Quran about the spreading the religion."
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "'Invite (all) to the way of thy Lord with wisdom and beautiful preaching; and argue with them in ways that are best and most gracious.' (Quran 16:125)"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What did the Prophet Muhammad mention was the greatest jihad?",
+		"answers": [
+			"The greatest jihad is to lie to others.",
+			"The greatest jihad is to defeat the forces of past religions.",
+			"The greatest jihad is to hold anger in your heart.",
+			"The greatest jihad is to struggle with the insidious suggestions of one’s own soul"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": " It is to struggle with the insidious suggestions of one’s own soul. Thus jihad refers to struggle of being a person of virtue and submission to God"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What did Prophet Muhammad mention about being merciful?",
+		"answers": [
+			"Be merciful to all beings on Earth.",
+			"Be merciful only to other Muslims.",
+			"Be merciful only to 'People of the Book'",
+			"Be merciful to all who are merciful to you."
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Muhammad said 'Be merciful on the earth and you will be shown mercy from the One who is above the Heavens'"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Whom did Prophet Muhammad describe as a strong person?",
+		"answers": [
+			"One who is both physically and mentally strong.",
+			"One who is strong of heart.",
+			"One who controls his anger.",
+			"One who has material wealth."
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "One who controls his anger."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What are the chapters of the Quran called?",
+		"answers": [
+			"Surah",
+			"Tablets",
+			"Odes",
+			"Ikhlas"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The chapters of the Quran are called Surah."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "According to the Quran, How should women be treated in Islam?",
+		"answers": [
+			"Women should be treated as servants of men.",
+			"Women are considered as bad omens and unclean.",
+			"Women have no freedom in Islam and must do as men say.",
+			"Women be treated with respect, honour and justice. It condemns oppression of any kind."
+		],
+		"correctAnswerIndex": 1,
+		"feedback": " In Islam women, like men, are commanded to believe in God and to worship Him. Women are equal to men in terms of reward in the hereafter. "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "In which country did Buddhism begin?",
+		"answers": [
+			"India",
+			"Malaysia",
+			"China",
+			"Japan"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Yes, Buddhism originated in India."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What is Dharma?",
+		"answers": [
+			"The teachings of the Buddha.",
+			"A Symbol of Buddhism",
+			"The name of Buddha.",
+			"A statue found in a Buddhist temple"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Dharma is the teachings of Buddha."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Where does the Eightfold Path lead?",
+		"answers": [
+			"To heaven.",
+			"To rebirth.",
+			"To enlightenment.",
+			"To Xanadu."
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The path leads to Enlightenment, or Nirvana."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "In Buddhism, what does the lotus flower represent?",
+		"answers": [
+			"Rebirth",
+			"Strength",
+			"Perfection",
+			"Purity"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "In Buddhism, the lotus flower represents purity."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "The goal of Buddhists is to be free from suffering, greed, hatred and delusion. What is the name given to this state?",
+		"answers": [
+			"Birvana",
+			"Nirvana",
+			"Cirvana",
+			"Tirvana"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Nirvana is understood as the end of attachment in life and therefore freedom from karma."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What is the belief that people's present actions will affect them in the future. ",
+		"answers": [
+			"Nirvana",
+			"Karma",
+			"Compassion",
+			"Onlat"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Karma is the belief that people's present actions will affect them in the future. "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Buddhism teaches that we should ...",
+		"answers": [
+			"Let others control our lives.",
+			"Not be concerned about anything that happens",
+			"Develop a state of consciousness.",
+			"Practice 'Hakuna Matata'"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Consciousness might also be thought of as awareness.."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "A Sanskrit word meaning 'action' or 'fate', a lot of people equate it to 'what goes around comes around'. What is this term?",
+		"answers": [
+			"Sutra",
+			"Karma",
+			"Bothi",
+			"Sangri-La"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Karma has come to mean 'What goes around, comes around.'"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What was the real name of the founder of Buddhism?",
+		"answers": [
+			"Suryabaya",
+			"Ashoka",
+			"Siddhartha Gautama",
+			"Boromir Ashoka"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Siddhartha Gautama is the real name of the Buddha."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Siddhartha Gautama, the founder of Buddhism, was born ..... ",
+		"answers": [
+			"a prince",
+			"a priest",
+			"a sage",
+			"a seer"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The Buddha was born a prince. "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What language was the New Testament originally written in?",
+		"answers": [
+			"Greek",
+			"Hebrew",
+			"Latin",
+			"Aramaic"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The New Testament was originally written in Greek."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "When was the Christian New Testament written?",
+		"answers": [
+			"Between 50 - 120 AD",
+			"Between 100 - 150 AD",
+			"Between  20 - 150 AD",
+			"Between  120 - 240 AD"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "It was only about 20 years after Jesus' death that people began to write down the things they remembered"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What does 'Christ' mean",
+		"answers": [
+			"Holy God",
+			"The Pure",
+			"Son of God",
+			"The Annointed"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "'Christ' (from the Greek 'Christos' ) is the equivalent of 'Messiah' (from the Hebrew 'mashiach'), meaning 'anointed.' "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What religion did Jesus practice?",
+		"answers": [
+			"Judaism",
+			"Christianity",
+			"Islam",
+			"Zoroastrianism"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Jesus was born a Jew and was faithful to Judaism his whole life. He was known as a rabbi among the people of Palestine."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which of these was at the heart of Jesus' teachings?",
+		"answers": [
+			"The restoration of the glory of the nation of Israel",
+			"The defeat of the Gods of the Roman Empire",
+			"The coming of the kingdom of God",
+			"The establishment of the Christian Church"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The Jews  expected their Messiah to be a great leader, but Jesus' kingdom is a spiritual kingdom rather than an earthly kingdom. It exists whereve."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What did Jesus say were the two great Commandments that should guide our lives?",
+		"answers": [
+			"You shall not murder and you shall not covet anything that belongs to your neighbor.",
+			"You shall not bow down before any idol, and you shall not covet anything that belongs to your neighbor.",
+			"Remember the Sabbath and keep it holy, and you shall have no other gods before me.",
+			"Love the Lord your God with all your heart and with all your soul and with all your mind, and love your neighbor as yourself."
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Love the Lord your God with all your heart and with all your soul and with all your mind, and love your neighbor"
+	},
+	{
+
+		"category": "Category: Global Faith I",
+		"question": " Which of these men encountered Jesus for the first time while on the road to Damascus?",
+		"answers": [
+			"Peter",
+			"Paul",
+			"Luke",
+			"John"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Paul didin a vision. He also took the title 'apostle', although he was not one of the original twelve."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which of these men was a tax collector before becoming Jesus' disciple?",
+		"answers": [
+			"Matthew",
+			"Mark",
+			"John",
+			"Steve"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Matthew was originally a tax collector for the occupying Roman Empire."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which of these was not an original Apostle of Christ?",
+		"answers": [
+			"Luke",
+			"John",
+			"Judas",
+			"Paul"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Paul was not one of the original twelve. "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "",
+		"answers": [
+			"1809",
+			"1817",
+			"1819",
+			"1821"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "  "
+	}
 ]
