@@ -9,7 +9,261 @@
 		],
 		"correctAnswerIndex": 2,
 		"feedback": "Baha is the first month of the Bahá’í year."
+	}, 
+ {
+		"category": "Category: Bahá’í Basics",
+		"question": "Which of these is a country Abdu'l-Baha never visited?",
+		"answers": [
+			"Turkey",
+			"Egypt",
+			"Romania",
+			"Bulgaria"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Abdu'l-Baha never visited Romania. "
 	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "How many men serve of the Universal House of Justice?",
+		"answers": [
+			"5",
+			"9",
+			"11",
+			"18"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Universal House of Justice has nine members who are elected every 5 years."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "November 26 is a day set aside to celebrate the life of `Abdu'l-Bahá. What is this day known as?",
+		"answers": [
+			"Thee day of Unity",
+			"Day of Reflection",
+			"Day of the Covenant",
+			"Day of the Divine Plan"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "November 26th is known as the Day of the Covenant."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "The Martyrdom of the Báb is commemorated at noon on what date?",
+		"answers": [
+			"July 9",
+			"May 29",
+			"August 14",
+			"November 28"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The martyrdom of the Bab was martyred on July 9th at noon."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "On which day of Ridván is work NOT suspended?",
+		"answers": [
+			"first",
+			"third",
+			"ninth",
+			"twelfth"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Work is not suspended on the third day of Ridvan. The other three are holidays!"
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "How many Terraces are there at the Shrine of the Bab?",
+		"answers": [
+			"9",
+			"18",
+			"19",
+			"27"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "There are 19 terraces stretching from the foot of Mt. Carmel to the Shrine of the Bab."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "In what tablet did Baha'u'llah refer to the Arc on Mt. Carmel?",
+		"answers": [
+			"Tablet of the Arc",
+			"Tabley of the Covanent",
+			"Tablet of the Holy Mariner",
+			"The tablet of Carmel"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Baha'u'llah refers to the arc in the Tablet of Carmel."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "How many pillars support the Seat of the Universal House of Justice?",
+		"answers": [
+			"58",
+			"81",
+			"95",
+			"98"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "There are 58 pillars. You thought it was 95 didn't you?"
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "What is the significance of the 21st of April 1863?",
+		"answers": [
+			"It marks the day on which Baha'u'llah declared His mission",
+			"It marks the day on which the Bab was martyred",
+			"It marks the day on which Baha'u'llah arrived in Akka",
+			"It marks the day on which Abdu'l-Baha arrived in America"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The 21st of April marks the day that Baha'u'llah declared his mission. "
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "Where did Baha'u'llah declare His mission?",
+		"answers": [
+			"In the Garden of Ali in Teheran",
+			"In the forest of Husayn near Tabriz",
+			"In the royal court of the Sultan in Intanbul",
+			"In the garden of Ridvan in Baghdad."
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "On the twelfth day of Ridvan in the Garden of Ridvan."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "What was the original name of the Garden of Ridvan?",
+		"answers": [
+			"Najibiyyih Garden",
+			"Shazdeh Garden",
+			"Shaherazad Garden",
+			"Royal Baaghdadi Gardens"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The Garden of Ridvan was originally called the Najibiyyih Garden."
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "What does Ridvan mean in English?",
+		"answers": [
+			"Heaven",
+			"Beauty",
+			"Glory",
+			"Paradise"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Ridvan in English means Paradise. "
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "How many years after the Bab's declaration in 1844 did Baha'u'llah declare?",
+		"answers": [
+			"9",
+			"10",
+			"12",
+			"19"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Baha'u'llah declared his mission in 1863 so the correct answer is 19. "
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "In what city was the Garden of Ridvan located?",
+		"answers": [
+			"Constantanople",
+			"Baghdad",
+			"Adrianople",
+			"Teheran"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Garden of Ridvan was located in Baghdad."
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "Where was Baha'u'llah exiled, after His stay in the Garden of Ridvan??",
+		"answers": [
+			"Constantinople",
+			"Baghdad",
+			"Alexandria",
+			"The Black Pit in Teheran"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "He was exiled first to Constanople and later to Adrianople. "
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "Which of these is NOT a central teaching of the Baha'i Faith?",
+		"answers": [
+			"Unity of Mankind",
+			"Equality of Men and Women",
+			"The blind observance of tradition",
+			"Spiritual solution to economic problems"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "We should not blindly follow but investigate for ourselves. "
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "The Baha'i faith is:",
+		"answers": [
+			"polytheistic.",
+			"monotheistic",
+			"duotheistic",
+			"Tritotheistic"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Baha'is believe in one God so it is monotheistic. "
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "Which of the following is NOT considered a divine messenger by adherents of the Baha'i faith?",
+		"answers": [
+			"Buddha",
+			"Krishna",
+			"Abraham",
+			"Confucious"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Although Confucious gave the world much wisdom, he is not considered a messenger of God."
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "The Baha'i house of worship in India is in the shape of:",
+		"answers": [
+			"a rose",
+			"a wheel of eternity",
+			"a lotus blossom",
+			"a Star"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The temple is built in the shape of a lotus blossom. "
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "The elimination of this is a central teaching of the Baha'i Faith.",
+		"answers": [
+			"wealth",
+			"government",
+			"illness",
+			"prejudice"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Baha'is should eliminate all forms of prejudice from their hears."
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "The universal auxiliary language will be: ",
+		"answers": [
+			"English",
+			"Farsi",
+			"Arabic",
+			"We don't know."
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "We do not know which language will be chosen."
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "Religion must conform to science and reason or: ",
+		"answers": [
+			"it will lead to superstition.",
+			"it will lead to war.",
+			"it will lead to anger and prejudice.",
+			"it will lead to spicy food."
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Religion without science will result in superstition."
+	},{
+		"category": "Category: Bahá’í Basics",
+		"question": "Which of these is a central teaching of the Baha'i faith?",
+		"answers": [
+			"Universal education",
+			"redistribution of property",
+			"Vegetarianism is our future",
+			"patience with idiots"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Universal education for all is a central tenet of the faith."
+	},{
 		"category": "Category: Bahá’í Basics",
 		"question": "Each Bahá’í month lasts for how many days?",
 		"answers": [
