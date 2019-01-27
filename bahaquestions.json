@@ -74,7 +74,7 @@
 			"19",
 			"27"
 		],
-		"correctAnswerIndex": 1,
+		"correctAnswerIndex": 2,
 		"feedback": "There are 19 terraces stretching from the foot of Mt. Carmel to the Shrine of the Bab."
 	}, {
 		"category": "Category: Bahá’í Basics",
@@ -107,7 +107,7 @@
 			"It marks the day on which Baha'u'llah arrived in Akka",
 			"It marks the day on which Abdu'l-Baha arrived in America"
 		],
-		"correctAnswerIndex": 1,
+		"correctAnswerIndex": 0,
 		"feedback": "The 21st of April marks the day that Baha'u'llah declared his mission. "
 	}, {
 		"category": "Category: Bahá’í Basics",
@@ -119,7 +119,7 @@
 			"In the garden of Ridvan in Baghdad."
 		],
 		"correctAnswerIndex": 3,
-		"feedback": "On the twelfth day of Ridvan in the Garden of Ridvan."
+		"feedback": "Baha'u'llah declared His mission on the twelfth day of Ridvan in the Garden of Ridvan."
 	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "What was the original name of the Garden of Ridvan?",
@@ -173,7 +173,7 @@
 			"Alexandria",
 			"The Black Pit in Teheran"
 		],
-		"correctAnswerIndex": 1,
+		"correctAnswerIndex": 0,
 		"feedback": "He was exiled first to Constanople and later to Adrianople. "
 	},{
 		"category": "Category: Bahá’í Basics",
@@ -185,7 +185,7 @@
 			"Spiritual solution to economic problems"
 		],
 		"correctAnswerIndex": 2,
-		"feedback": "We should not blindly follow but investigate for ourselves. "
+		"feedback": "We should not blindly follow but investigate reality for ourselves. "
 	},{
 		"category": "Category: Bahá’í Basics",
 		"question": "The Baha'i faith is:",
@@ -218,7 +218,7 @@
 			"a Star"
 		],
 		"correctAnswerIndex": 2,
-		"feedback": "The temple is built in the shape of a lotus blossom. "
+		"feedback": "The beautiful Indian temple is built in the shape of a lotus blossom. "
 	},{
 		"category": "Category: Bahá’í Basics",
 		"question": "The elimination of this is a central teaching of the Baha'i Faith.",
@@ -251,7 +251,7 @@
 			"it will lead to spicy food."
 		],
 		"correctAnswerIndex": 0,
-		"feedback": "Religion without science will result in superstition."
+		"feedback": "Religion without science will result in superstition. Science and religion must agree."
 	},{
 		"category": "Category: Bahá’í Basics",
 		"question": "Which of these is a central teaching of the Baha'i faith?",
@@ -262,7 +262,7 @@
 			"patience with idiots"
 		],
 		"correctAnswerIndex": 0,
-		"feedback": "Universal education for all is a central tenet of the faith."
+		"feedback": "Universal education for all is a central tenet of the faith. Patience thouh is good."
 	},{
 		"category": "Category: Bahá’í Basics",
 		"question": "Each Bahá’í month lasts for how many days?",
@@ -318,7 +318,7 @@
 			" May 30, 1849"
 		],
 		"correctAnswerIndex": 1,
-		"feedback": "The Báb declared himself to Mulla Husayn on May 23, 1844."
+		"feedback": "The Báb declared himself to Mulla Husayn on May 23, 1844 in Shiraz."
 	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": " What was the Báb's name at birth?  ",
@@ -373,7 +373,7 @@
 			"Jesus"
 		],
 		"correctAnswerIndex": 0,
-		"feedback": "The Báb foretold the coming of Baha'u'llah."
+		"feedback": "The Báb foretold the coming of Baha'u'llah. "
 	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Whom did Bahá’u’lláh appoint as his successor?",
@@ -439,7 +439,7 @@
 			"Chicken Salad"
 		],
 		"correctAnswerIndex": 2,
-		"feedback": "The drinking of wine… is, according to the text of the Most Holy Book, forbidden; for it is the cause of chronic diseases, weakeneth the nerves, and consumeth the mind.Abdu’ l - Bahá "
+		"feedback": "The drinking of wine… is, according to the text of the Most Holy Book, forbidden "
 	},
 	{
 		"category": "Category: Bahá’í Basics",
