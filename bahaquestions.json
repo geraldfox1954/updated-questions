@@ -9,8 +9,8 @@
 		],
 		"correctAnswerIndex": 2,
 		"feedback": "Baha is the first month of the Bahá’í year."
-	}, 
- {
+	},
+	{
 		"category": "Category: Bahá’í Basics",
 		"question": "Which of these is a country Abdu'l-Baha never visited?",
 		"answers": [
@@ -164,7 +164,7 @@
 		],
 		"correctAnswerIndex": 1,
 		"feedback": "The Garden of Ridvan was located in Baghdad."
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Where was Baha'u'llah exiled, after His stay in the Garden of Ridvan??",
 		"answers": [
@@ -175,7 +175,7 @@
 		],
 		"correctAnswerIndex": 0,
 		"feedback": "He was exiled first to Constanople and later to Adrianople. "
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Which of these is NOT a central teaching of the Baha'i Faith?",
 		"answers": [
@@ -186,7 +186,7 @@
 		],
 		"correctAnswerIndex": 2,
 		"feedback": "We should not blindly follow but investigate reality for ourselves. "
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "The Baha'i faith is:",
 		"answers": [
@@ -197,7 +197,7 @@
 		],
 		"correctAnswerIndex": 1,
 		"feedback": "Baha'is believe in one God so it is monotheistic. "
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Which of the following is NOT considered a divine messenger by adherents of the Baha'i faith?",
 		"answers": [
@@ -208,7 +208,7 @@
 		],
 		"correctAnswerIndex": 3,
 		"feedback": "Although Confucious gave the world much wisdom, he is not considered a messenger of God."
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "The Baha'i house of worship in India is in the shape of:",
 		"answers": [
@@ -219,7 +219,7 @@
 		],
 		"correctAnswerIndex": 2,
 		"feedback": "The beautiful Indian temple is built in the shape of a lotus blossom. "
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "The elimination of this is a central teaching of the Baha'i Faith.",
 		"answers": [
@@ -230,7 +230,7 @@
 		],
 		"correctAnswerIndex": 3,
 		"feedback": "Baha'is should eliminate all forms of prejudice from their hears."
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "The universal auxiliary language will be: ",
 		"answers": [
@@ -241,7 +241,7 @@
 		],
 		"correctAnswerIndex": 3,
 		"feedback": "We do not know which language will be chosen."
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Religion must conform to science and reason or: ",
 		"answers": [
@@ -252,7 +252,7 @@
 		],
 		"correctAnswerIndex": 0,
 		"feedback": "Religion without science will result in superstition. Science and religion must agree."
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Which of these is a central teaching of the Baha'i faith?",
 		"answers": [
@@ -263,7 +263,7 @@
 		],
 		"correctAnswerIndex": 0,
 		"feedback": "Universal education for all is a central tenet of the faith. Patience thouh is good."
-	},{
+	}, {
 		"category": "Category: Bahá’í Basics",
 		"question": "Each Bahá’í month lasts for how many days?",
 		"answers": [
@@ -930,7 +930,7 @@
 		"feedback:": "Material and spiritual advancement."
 	},
 
-  {
+	{
 		"category": "Category: Global Faith I",
 		"question": "In Islam, what is the Shahada?",
 		"answers": [
@@ -1281,139 +1281,216 @@
 			"Judas",
 			"Paul"
 		],
-		"correctAnswerIndex": 1,
+		"correctAnswerIndex": 3,
 		"feedback": "Paul was not one of the original twelve. "
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "Jesus was baptized and began his ministry at about age 30. Who baptized Him?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"John",
+			"Mary",
+			"Joseph",
+			"Joshua"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 0,
+		"feedback": "John the Baptist baptised Jesus."
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "According to Jesus, which of these is NOT not a characteristic of those who truly love God?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"Mercy",
+			"Obediance",
+			"humility",
+			"Pride"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 3,
+		"feedback": "Evils of pride in the sense of being self-righteous, conceited or disdainful."
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "Fill in the blank. 'Come to Me, all who are weary and heavy-laden, and I will give you _______.'",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"Eternal Life",
+			"Peace",
+			"Rest",
+			"Friendship"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 2,
+		"feedback": "Come to Me, all who are weary and heavy-laden, and I will give you rest."
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "According to Hinduism, who is the king of gods?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"Shiva",
+			"Indra",
+			"Brama",
+			"Vishnu"
 		],
 		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"feedback": "Indra is the god of thunder and uses Vajrayudha as his weapon"
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "Who is the Hindu goddess of knowledge?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"Lakshmi",
+			"Parvathi",
+			"Saraswati",
+			"Shakuntala"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 2,
+		"feedback": "Saraswati is the goddess of knowledge, wife of Brahma and sits above a lotus. Lakshmi is the wife of Vishnu"
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "In the Kurukshetra war, Krishna was the charioteer of which great warrior?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"Bhima",
+			"Karna",
+			"Drona",
+			"Arjuna"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 3,
+		"feedback": "Krishna played a vital role in leading the Pandavas to victory and with his bravery he saved Arjuna from various dangers he faced in battle with Karna"
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "Which of these is a holy book of Hinduism?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"The Upanishads",
+			"The Bhagavad Gita",
+			"The Shakuntala",
+			"The Arjuna Mantra"
 		],
 		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"feedback": "Bhagavad Gita means 'Song of the Lords' and is Krishna's teachings to Arjuna"
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "How is the Buddha regarded in Hinduism?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"He was a disciple of Krishna.",
+			"He was a false prophet.",
+			"He never existed.",
+			"He was one of the avatars of Vishnu"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 3,
+		"feedback": "Gautama Buddha, the founder of Buddhism, is considered to be one of the many incarnations of Lord Vishnu, as stated in Bhagavata Purana"
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "The Trimurti is made up of Brahma, Vishnu and Shiva. What does Trimurti  mean?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"Three Gods",
+			"Three Forms",
+			"Three Crowns",
+			"The Three Avatars"
 		],
 		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"feedback": "The Trimurti is used to describe the three forms of the same Supreme Soul. The creator is called Brahma, the protector Vishnu and the destroyer Shiva"
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "Which of the Hindu castes is strictly vegetarian?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"The Priest caste",
+			"The Artisan caste",
+			"The Warrior caste",
+			"The Farmer caste"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 0,
+		"feedback": "The Brahmin caste follows a very pure way of life."
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "What is the Sacred River of Hinduism?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"The Ganga",
+			"The Indus",
+			"The Bramaputra",
+			"The Rio Grande"
 		],
-		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"correctAnswerIndex": 0,
+		"feedback": "Ganga or Ganges, as well as being purifying and the most sacred of rivers is also the wife of Shantanu and the mother of Bhishma"
 	}, {
 		"category": "Category: Global Faith I",
-		"question": "",
+		"question": "The purpose of life is seen to be gaining liberation from the circle of reincarnation by resolving Karma. What name is given to this achievement?",
 		"answers": [
-			"1809",
-			"1817",
-			"1819",
-			"1821"
+			"Sutra",
+			"Veda",
+			"Moksha",
+			"Banjali"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Moksha, or the eternal salvation, is what everybody is to strive for."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "This is one of the most famous, and the most read, epics of all time. It was written by Valmiki, who is regarded as a Maharishi.",
+		"answers": [
+			"Ramayana",
+			"Hinduyama",
+			"Gangayama",
+			"Hava Mein ud Gaya"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Ramayana is an ancient Indian epic poem which narrates the struggle of the divine prince Rama to rescue his wife Sita from the demon king Ravana"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What is the literal translation of the Sanskrit term 'Advaita'?",
+		"answers": [
+			"Not One",
+			"Not Two",
+			"One Consciousness",
+			"Two Minds"
 		],
 		"correctAnswerIndex": 1,
-		"feedback": "  "
+		"feedback": "Advaita means 'not two' rather than 'all one' or similar, as saying all is one is seen as too simplistic. Saying 'not two' leads to a state more or less beyond words"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which festival is also known as the festival of lights?",
+		"answers": [
+			"Diwali",
+			"Mahashivaratri",
+			"Holi",
+			"Ram Navami"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": " Diwali is an ancient Hindu festival. The festival spiritually signifies the victory of light over darkness, knowledge over ignorance, good over evil, and hope over despair.  "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What is the name of the person that leads the service?",
+		"answers": [
+			"Vishali",
+			"Ravioli",
+			"Rabbi",
+			"Leader"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Services are led by a Rabbi."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "The traditional skull-cap worn by Jewish men is called a what?",
+		"answers": [
+			"Yarmulka",
+			"Mitre",
+			"Zuchetto",
+			"Malicostra"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": " A yarmulke or kippah is usually made of cloth, and is worn by Jewish men. "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "The Jewish Festival of Passover, commemorates ...",
+		"answers": [
+			"The Jewish New Year",
+			"The Jewish equivalent of Christmas",
+			"The arrival of Spring",
+			"The Israelite Exodus from Egypt around 1450 BC"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Passover, or Pesach, commemorates the liberation of the ancient Hebrews from slavery in Egypt over 3,300 years ago."
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "In Judaism, giving to charity is . . .",
+		"answers": [
+			"done at specific times of the year in tandem with Jewish festivals",
+			"left to the individual to decide as appropriate",
+			"only given to those with a direct need",
+			"a requirement"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "'tzedakah', signifying charity, literally means 'righteous behaviour' is a term implying generosity beyond that which may be expected - but is actually a requirement"
 	}
 ]
