@@ -1474,7 +1474,108 @@
 		],
 		"correctAnswerIndex": 0,
 		"feedback": " A yarmulke or kippah is usually made of cloth, and is worn by Jewish men. "
+	}, 
+ {
+		"category": "Category: Global Faith I",
+		"question": "What is the Shahadah?",
+		"answers": [
+			"The first Surah of the Koran",
+			"The name of the King in Hinduism",
+			"The statement of faith in Islam",
+			"The king of Babalon"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": " The shahadah is the formal statement of faith in Islam. "
 	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which of these are Mormons allowed to drink?",
+		"answers": [
+			"Tea",
+			"Coffee",
+			"Whiskey",
+			"Dr. Pepper"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Dr.Pepper is the only type of drink the Mormons are allowed. Pepsi and coke are OK too of course. "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "What does 'Upanishads' mean?",
+		"answers": [
+			"Sitting by a guru.",
+			"Living a pure life.",
+			"Doing no harm",
+			"Eating no pepperoni"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Upanishads means sitting by a guru. "
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Which of these is not one of the Jewish books?",
+		"answers": [
+			"Talmud",
+			"Mishna",
+			"Halud",
+			"Torah"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": " The halud is not a Holy book. I just made it up!"
+	}, {
+		"category": "Category: Global Faith I",
+		"question": "Muslims believe God told Abraham to build a sanctuary where?",
+		"answers": [
+			"Jeruselum",
+			"Medina",
+			"Paris",
+			"Zamzam"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Zamzam is a well located within the Masjid al-Haram in Mecca. "
+	},{
+		"category": "Category: Global Faith I",
+		"question": "What was the occupation of Muhammad growing up?",
+		"answers": [
+			"Camel driver",
+			"Priest",
+			"Keeper of the Holy Keys",
+			"Trader"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Muhammad was a camel driver when he was young. "
+	},{
+		"category": "Category: Global Faith I",
+		"question": "What is the name of the 40x40 foot cubic structure in Mecca near Zamzam. ",
+		"answers": [
+			"Kubac",
+			"Kabah",
+			"Koban",
+			"Zamzam"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Kabah is the cubic building located within the Masjid al-Haram in Mecca. "
+	},{
+		"category": "Category: Global Faith I",
+		"question": "How many sacrements are there in the Catholic church?",
+		"answers": [
+			"3",
+			"5",
+			"7",
+			"9"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Seven!Baptism, Confirmation, Communion, Reconciliation, Anointing of the sick, Holy orders, Holy matrimony "
+	},{
+		"category": "Category: Global Faith I",
+		"question": "What happened in 312 AD",
+		"answers": [
+			"Constantine became Christian",
+			"Mohammed was born",
+			"Rome burned",
+			"Julius Caesar became a Christian"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Constantine became Christian and Christianity grew quickly."
+	},
+ {
 		"category": "Category: Global Faith I",
 		"question": "The Jewish Festival of Passover, commemorates ...",
 		"answers": [
