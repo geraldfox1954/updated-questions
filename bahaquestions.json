@@ -1,1967 +1,2256 @@
-[{
-		"category": "Category: Bahá’í  Basics",
-		"question": "The first month of the Bahá’í Year is called what?",
-		"answers": [
-			"Ala",
-			"Mulk",
-			"Baha",
-			"Masa'il"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Baha is the first month of the Bahá’í year."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is a country Abdu'l-Baha never visited?",
-		"answers": [
-			"Turkey",
-			"Egypt",
-			"Romania",
-			"Bulgaria"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Abdu'l-Baha never visited Romania. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How many men serve of the Universal House of Justice?",
-		"answers": [
-			"5",
-			"9",
-			"11",
-			"18"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Universal House of Justice has nine members who are elected every 5 years."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "November 26 is a day set aside to celebrate the life of `Abdu'l-Bahá. What is this day known as?",
-		"answers": [
-			"Thee day of Unity",
-			"Day of Reflection",
-			"Day of the Covenant",
-			"Day of the Divine Plan"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "November 26th is known as the Day of the Covenant."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Martyrdom of the Báb is commemorated at noon on what date?",
-		"answers": [
-			"July 9",
-			"May 29",
-			"August 14",
-			"November 28"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The martyrdom of the Bab was martyred on July 9th at noon."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "On which day of Ridván is work NOT suspended?",
-		"answers": [
-			"first",
-			"third",
-			"ninth",
-			"twelfth"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Work is not suspended on the third day of Ridvan. The other three are holidays!"
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How many Terraces are there at the Shrine of the Bab?",
-		"answers": [
-			"9",
-			"18",
-			"19",
-			"27"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "There are 19 terraces stretching from the foot of Mt. Carmel to the Shrine of the Bab."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "In what tablet did Baha'u'llah refer to the Arc on Mt. Carmel?",
-		"answers": [
-			"Tablet of the Arc",
-			"Tabley of the Covanent",
-			"Tablet of the Holy Mariner",
-			"The tablet of Carmel"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Baha'u'llah refers to the arc in the Tablet of Carmel."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How many pillars support the Seat of the Universal House of Justice?",
-		"answers": [
-			"58",
-			"81",
-			"95",
-			"98"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "There are 58 pillars. You thought it was 95 didn't you?"
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What is the significance of the 21st of April 1863?",
-		"answers": [
-			"It marks the day on which Baha'u'llah declared His mission",
-			"It marks the day on which the Bab was martyred",
-			"It marks the day on which Baha'u'llah arrived in Akka",
-			"It marks the day on which Abdu'l-Baha arrived in America"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The 21st of April marks the day that Baha'u'llah declared his mission. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Where did Baha'u'llah declare His mission?",
-		"answers": [
-			"In the Garden of Ali in Teheran",
-			"In the forest of Husayn near Tabriz",
-			"In the royal court of the Sultan in Intanbul",
-			"In the garden of Ridvan in Baghdad."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Baha'u'llah declared His mission on the twelfth day of Ridvan in the Garden of Ridvan."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What was the original name of the Garden of Ridvan?",
-		"answers": [
-			"Najibiyyih Garden",
-			"Shazdeh Garden",
-			"Shaherazad Garden",
-			"Royal Baaghdadi Gardens"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Garden of Ridvan was originally called the Najibiyyih Garden."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What does Ridvan mean in English?",
-		"answers": [
-			"Heaven",
-			"Beauty",
-			"Glory",
-			"Paradise"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Ridvan in English means Paradise. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How many years after the Bab's declaration in 1844 did Baha'u'llah declare?",
-		"answers": [
-			"9",
-			"10",
-			"12",
-			"19"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Baha'u'llah declared his mission in 1863 so the correct answer is 19. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "In what city was the Garden of Ridvan located?",
-		"answers": [
-			"Constantanople",
-			"Baghdad",
-			"Adrianople",
-			"Teheran"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Garden of Ridvan was located in Baghdad."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Where was Baha'u'llah exiled, after His stay in the Garden of Ridvan??",
-		"answers": [
-			"Constantinople",
-			"Baghdad",
-			"Alexandria",
-			"The Black Pit in Teheran"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "He was exiled first to Constanople and later to Adrianople. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is NOT a central teaching of the Baha'i Faith?",
-		"answers": [
-			"Unity of Mankind",
-			"Equality of Men and Women",
-			"The blind observance of tradition",
-			"Spiritual solution to economic problems"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "We should not blindly follow but investigate reality for ourselves. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Baha'i faith is:",
-		"answers": [
-			"polytheistic.",
-			"monotheistic",
-			"duotheistic",
-			"Tritotheistic"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Baha'is believe in one God so it is monotheistic. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of the following is NOT considered a divine messenger by adherents of the Baha'i faith?",
-		"answers": [
-			"Buddha",
-			"Krishna",
-			"Abraham",
-			"Confucious"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Although Confucious gave the world much wisdom, he is not considered a messenger of God."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Baha'i house of worship in India is in the shape of:",
-		"answers": [
-			"a rose",
-			"a wheel of eternity",
-			"a lotus blossom",
-			"a Star"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The beautiful Indian temple is built in the shape of a lotus blossom. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The elimination of this is a central teaching of the Baha'i Faith.",
-		"answers": [
-			"wealth",
-			"government",
-			"illness",
-			"prejudice"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Baha'is should eliminate all forms of prejudice from their hears."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The universal auxiliary language will be: ",
-		"answers": [
-			"English",
-			"Farsi",
-			"Arabic",
-			"We don't know."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "We do not know which language will be chosen."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Religion must conform to science and reason or: ",
-		"answers": [
-			"it will lead to superstition.",
-			"it will lead to war.",
-			"it will lead to anger and prejudice.",
-			"it will lead to spicy food."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Religion without science will result in superstition. Science and religion must agree."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is a central teaching of the Baha'i faith?",
-		"answers": [
-			"Universal education",
-			"redistribution of property",
-			"Vegetarianism is our future",
-			"patience with idiots"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Universal education for all is a central tenet of the faith. Patience thouh is good."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Each Bahá’í month lasts for how many days?",
-		"answers": [
-			"19",
-			"21",
-			"28",
-			"30"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Each month has 19 days."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What does Naw Ruz mark the end of?",
-		"answers": [
-			"Ayyam'i'Ha",
-			"The days of sorrow.",
-			"The celebration of Ridvan",
-			"The Fast"
-
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "After the 19 days of fasting, we enjoy Naw-Ruz. Hooray! Let's eat!"
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What year did Abdu’l-Baha first visit the U.S.?",
-		"answers": [
-			"1909",
-			"1912",
-			"1915",
-			"1920"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Abdu'l-Baha visited the U.S. in 1912."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What does 'The Báb' mean? ",
-		"answers": [
-			"Bridge",
-			"The Mahdi",
-			"Gate",
-			"Beloved"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The word Báb in Arabic means Gate."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "On what date did the Báb declare his mission?",
-		"answers": [
-			" April 21, 1843",
-			" May 23, 1844",
-			" June 2, 1845  ",
-			" May 30, 1849"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Báb declared himself to Mulla Husayn on May 23, 1844 in Shiraz."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": " What was the Báb's name at birth?  ",
-		"answers": [
-			"Siyyid 'Ali-Muhammad",
-			"Siyyid Allah Muhammed",
-			"Siyyid Kazim-Rashti",
-			"Siyyid Husayn Ali"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Báb's birth name was Siyyid 'Ali-Muhammad."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What is the month of Fasting called?",
-		"answers": [
-			"Baha",
-			"Jamal",
-			"Nur",
-			"Ala"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "The month of fasting is called Ala. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Kitab i Aqdas is known in English as?",
-		"answers": [
-			"The Most Great Book",
-			"The Book of Revelation",
-			"The book of Certitude",
-			"The Most Holy Book"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "The Kitab'i-Aqdas is known as The Most Holy Book."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What city is the Shrine of the Báb located in?",
-		"answers": [
-			"Acca",
-			"Haifa",
-			"Carmel",
-			"Teheran"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The shrine of the Báb is located on Mount Carmel in Haifa Israel."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Báb foretold the coming of what prophet?",
-		"answers": [
-			"Bahá'u'lláh”",
-			"Muhammad",
-			"Zoroaster",
-			"Jesus"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Báb foretold the coming of Baha'u'llah. "
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Whom did Bahá’u’lláh appoint as his successor?",
-		"answers": [
-			"Abdu’l-Bahá",
-			"Shoghi Effendi",
-			"Shaykh Ahmad",
-			"The Universal House of Justice"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Bahá’u’lláh appointed Abdu'l-Baha as his successor."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Bahá’í calendar starts from which year?",
-		"answers": [
-			"1817",
-			"1844",
-			"1853",
-			"1893"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Bahá’í calendar began in the year 1844."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What is the name of the elected world body which handles the affairs of the Faith?",
-		"answers": [
-			"The Social Development Council",
-			"The Eternal House of Progress",
-			"The Universal House of Justice",
-			"The Spiritual Unity Cooperative"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The Universal House of Justice is the supreme elected body of the world."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What is the most fundamental teaching of the Bahá’í Faith?",
-		"answers": [
-			"Detachment",
-			"Honesty",
-			"Happiness",
-			"Unity"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Unity is the most fundimental teaching of the Bahá’í Faith."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How many years did Baha'u'llah say would pass before another Messenger of God would appear?",
-		"answers": [
-			"900 years",
-			"1000 years",
-			"2000 years",
-			"He did not say."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Baha'u'llah said that it would be at least 1000 before another Messenger would appear."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of the following should Bahá’ís avoid?",
-		"answers": [
-			"Shellfish",
-			"Medicines",
-			"Alcohol",
-			"Chicken Salad"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The drinking of wine… is, according to the text of the Most Holy Book, forbidden "
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of the following are not exempt from fasting?",
-		"answers": [
-			"Anyone over 70",
-			"Anyone who is pregnant or nursing",
-			"Anyone who works as a chef in a restaurant",
-			"Anyone doing heavy manual labour"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "When if you work as a chef in a restaurant, you should still fast. Sorry! "
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Bahá’u’lláh forbids backbiting. What does this mean?",
-		"answers": [
-			"Arguing with someone",
-			"Talking about people in their absence.",
-			"Being rude to your parents.",
-			"Giving someone the evil eye."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Talking about people in their absence. "
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "When saying a daily obligatory prayer, a Bahá’í should turn towards which holy place?",
-		"answers": [
-			"The Shrine of the Báb in Haifa, Israel",
-			"The House of Bahá’u’lláh in Baghdad, Iraq",
-			"The House of Bahá’u’lláh in Edirne, Turkey",
-			"The Shrine of Bahá’u’lláh near Akka, Israel"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Bahá’ís should face The Shrine of Bahá’u’lláh near Akka, Israel. Do you have the app?"
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is sometimes used as a greeting by the Bahá’ís?",
-		"answers": [
-			"Peace be upon you.",
-			"May God's light shine on you.",
-			"Alláh-u-Abhá",
-			"Alláh-u-Akbar"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Alláh-u-Abhá meaning God is the Most Glorious is often used as a greeting. Alláh-u-Abhá!"
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": " Bahá’ís must obtain their parents’ permission to:",
-		"answers": [
-			"Leave home",
-			"Get married",
-			"Date someone at college",
-			"Play video games"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "You can do as you like but you do need your parents permission to marry."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is a Bahá’í burial law.",
-		"answers": [
-			"The body must be wrapped in a pure white shroud.",
-			"The body should be buried less than an hour’s journey from the place of death.",
-			"The deceased's family should wear black as a sign of respect.",
-			"All the person’s valuable possessions should also be placed in the grave "
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The deceased should be buried less than an hour’s journey from the place of death."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "On the first day of each Bahá’í month, there is a meeting of each local Bahá’í community.What is this called?",
-		"answers": [
-			"The Day of Spirituality",
-			"The Feasting Day",
-			"The Day of the Covenant.",
-			"The Nineteen Day Feast."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Bahá’ís gather for The Nineteen Day Feast"
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "How many Holy Days are there during the year on which work should be suspended.",
-		"answers": [
-			"6",
-			"9",
-			"10",
-			"19"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "There are nine holy days. Check them out."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "How does a person join the Bahá’í community",
-		"answers": [
-			"By completing a sequence of courses and getting a passing grade.",
-			"By declaring their belief in Bahá’u’lláh as a messenger of God.",
-			"By undergoing a secret initiation ceremony",
-			"By paying a subscription fee and signing a membership form"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "By declaring belief in Bahá’u’lláh as a messenger of God, and a willingness to follow his teachings."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Which is the most important Bahá’í festival?",
-		"answers": [
-			"Naw-Ruz",
-			"The 12 Days of Ridván",
-			"The day of the Covenant",
-			"Ayyam'i-Ha because I get presents!"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The 12 days of Ridvan during which Bahá’u’lláh announced his mission to his followers."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Nine elected members make up this institution that guides the development of the Bahá’í world.",
-		"answers": [
-			"The Universal House of Justice",
-			"The United Nations",
-			"The Universal Board of Counselors",
-			"The International House of Pancakes"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Universal House of Justice is made up of nine elected members."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "How long do terms on the Universal House of Justice last? ",
-		"answers": [
-			"4 years",
-			"5 years",
-			"7 years",
-			"They change at the end of each plan"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Each term lasts 5 years."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Which is not an elected position in the Bahá’í Faith?",
-		"answers": [
-			"National Spiritual Assembly",
-			"Local Spiritual Assembly",
-			"Continental board of counselors",
-			"Universal House of Justice member"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Continental board of ounselors are appointed not elected. "
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "The Bahá’í principle in which humanity will always be guided by a series of Messengers sent by God",
-		"answers": [
-			"Progressive Revelaation",
-			"The Holy Trinity",
-			"The Eternal Progression",
-			"The Holy Multitude"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Bahá’í principle in which humanity will always be guided by a series of Messengers sent by God is known as Progressive revelation."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Baha'u'llah teaches that heaven and hell:",
-		"answers": [
-			"are to be understood symbolically",
-			"are real places.",
-			"are nonexistent because our souls cease to exist after death."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "They are to be understood symbolically and describe a state of nearness to or distance from God."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Baha'u'llah teaches that the purpose of this life is:",
-		"answers": [
-			"to acquire wealth and happiness. ",
-			"to study religion.",
-			"to develop virtues in preparation for the next world.",
-			"to receive and dispense justice."
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "We are in this world to develop virtues in preparation for the next world"
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Baha'u'llah revealed the teachings of the Baha'i Faith in which two languages?",
-		"answers": [
-			"Arabic and English",
-			"Persian and Turkish.",
-			"Arabic and Klingon",
-			"Arabic and Farsi"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Arabic and Persian or Farsi are the primary languages He wrote in."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How should people find spiritual truth?",
-		"answers": [
-			"By following their parent's religion.",
-			"Though rejection of material things.",
-			"By learning from the clergy.",
-			"By investigating truth for themselves."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Independent investigation of truth."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "How should people find spiritual truth?",
-		"answers": [
-			"By following their parent's religion.",
-			"Though rejection of material things.",
-			"By learning from the clergy.",
-			"By investigating truth for themselves."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Independent investigation of truth."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How should people find spiritual truth?",
-		"answers": [
-			"By following their parent's religion.",
-			"Though rejection of material things.",
-			"By learning from the clergy.",
-			"By investigating truth for themselves."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Independent investigation of truth."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "How many terms can a UHJ member serve?",
-		"answers": [
-			"Two five year terms.",
-			"Three four year terms.",
-			"Until they turn 70",
-			"There is no limit."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "There is no term limit."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How many days each year do Bahá’ís fast?",
-		"answers": [
-			"19",
-			"19 or 20 depending on leap year.",
-			"30",
-			"30 or 31 depending on the year."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": " Bahá’ís fast 19 days regardless of leap year."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "At what age should Bahá’ ís begin to fast ? ",
-		"answers": [
-			"12",
-			"15",
-			"18",
-			"21"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Bahá’ís should begin to fast from the age of 15 and until they reach 70 if healthy."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "During the Fast, Baha'is are to abstain from food, water and smoking from sunrise to sunset. Which of these are not prohibited? ",
-		"answers": [
-			"food", "water", "beer", "talking about how hungry they are."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": " While it may be counter productive to a good fast, whining is not expressly forbidden."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Who was appointed by `Abdu’l-Bahá to be the Guardian of the Bahá’í Faith after he passed away in 1921?",
-		"answers": ["Siyyid Kazim", "Kahil Gibran", "Shoghi Effendi", "The Universal House of Justice"],
-		"correctAnswerIndex": 2,
-		"feedback": "Abdu’l-Bahá appointed his grandson Shoghi Effendi to lead the faith."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Bahai faith promotes the agreement of:",
-		"answers": [
-			"science and religion",
-			"men and chickens",
-			"education and language",
-			"belief and superstition"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Baha’ i faith teaches that science and religion must agree."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Bahá’is should read something from the Baha’í scriptures every day. How often?",
-		"answers": [
-			"Every morning and evening",
-			"Whenever you like, but at least once a day.",
-			"Morning, noon and in the evening",
-			"Whenever there is a commercial on TV."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": " Every morning and evening. Of course, you can pray and read at other times as well."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "________ of all kinds whether religious, racial, patriotic or political is destructive of divine foundations in man.",
-		"answers": [
-			"Prejudice", "Evil", "Possessions", "Lies"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Prejudice of all kinds, whether religious, racial, patriotic or political is destructive of divine foundations in man."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "This will enable them to qualify and progress in all degrees of occupation and accomplishment. Who is this quote about? ",
-		"answers": ["all people", "women", "souls", "doves"],
-		"correctAnswerIndex": 1,
-		"feedback": "There must be an equality of rights between men and women. Women shall receive an equal privilege of education. This will enable them . . ."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is NOT a Baha’i Month?",
-		"answers": ["Glory", "Beauty", "Charity", "Knowledge"],
-		"correctAnswerIndex": 2,
-		"feedback": "While charity is a wonderful thing, it is not one of the named Bahá’ í months."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "What are the Baha’i months named for?",
-		"answers": ["Attributes of God", "The power of God", "Traditional Persian months", "The will of God"],
-		"correctAnswerIndex": 0,
-		"feedback": "These are all attributes of God."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "How many days is the festival of Ridván",
-		"answers": ["2", "5", "9", "12"],
-		"correctAnswerIndex": 3,
-		"feedback": "There are 12 days of Ridvan but not are all days off at work."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Which of these is NOT a Baha’ i Holy day ?",
-		"answers": ["Naw - Ruz", "Birth of Abdu’ l - Baha", "Day of the Covenant", "Declaration of the Báb"],
-		"correctAnswerIndex": 1,
-		"feedback": "The birth of Abdu’l-Baha is not one of the Holy Days."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "This time commemorates the public proclamation of Baha’ u’ llah’ s mission as God’ s messenger for this age.",
-		"answers": ["Ridvan", "Naw Ruz", "Ayyam’ i’ Ha", "Day of the Covenant"],
-		"correctAnswerIndex": 0,
-		"feedback": "Ridvan is the time when Bahá’u’lláh declared his mission."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Another name for the Baha’ i calendar is: ",
-		"answers": ["The Babi calendar", "The Hadi calendar", "The Badi calendar", "The Walii calendar"],
-		"correctAnswerIndex": 2,
-		"feedback": "The Badi calendar is another way of saying the Baha’ i calendar."
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "Badi (The Badi calendar) means what in Arabic?",
-		"answers": [
-			"Dawn",
-			"Solar year.",
-			"The fresh wind that envigorates",
-			"To create anew."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "It means to begin anew or wondrous. "
-	},
-	{
-		"category": "Category: Bahá’í Basics",
-		"question": "What Baha’í month does Ayyam-i-Ha fall into ? ",
-		"answers": ["Mulk", "Ala", "Baha", "It doesn’ t fall in a Bahá’í month."],
-		"correctAnswerIndex": 3,
-		"feedback:": "It does not fall in any month but is between the months of Mulk and Ala."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Every human being possesses an _________, rational soul.",
-		"answers": ["immortal", "massive", "long living", "temporary"],
-		"correctAnswerIndex": 0,
-		"feedback:": "Every human being possesses an immortal, rational soul."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The soul continues for _________ to advance towards God.",
-		"answers": ["a lifetime", "a really long time", "eternity", "many years"],
-		"correctAnswerIndex": 2,
-		"feedback:": "Good News! The soul continues for eternity to advance towards God."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Bahá’í Writings explain that the ________ is beyond the understanding of any mortal mind.",
-		"answers": ["reality of man", "depths of physics", "mastery of philosophy", "reality of God"],
-		"correctAnswerIndex": 3,
-		"feedback:": "The Bahá’í Writings explain that the reality of God is beyond the understanding of any mortal mind."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Through the teachings of the Manifestations of God, humanity’s spiritual, intellectual and _____ capacities have been cultivated.",
-		"answers": ["mental", "moral", "material", "managable"],
-		"correctAnswerIndex": 1,
-		"feedback:": "Through the teachings of the Manifestations of God, humanity’s spiritual, intellectual and moral capacities have been cultivated."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Humanity, having passed through the ages of infancy and childhood, now stands at the threshold of its collective ________",
-		"answers": ["mendacity", "maturity", "monetary", "mental"],
-		"correctAnswerIndex": 1,
-		"feedback:": "Humanity, having passed through the ages of infancy and childhood, now stands at the threshold of its collective maturity."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": " The hallmark of mankind's maturity will be the __________.",
-		"answers": ["extirmination of the human race.", "scientific progress of the human race.", "education of the inhuman race.", "unification of the human race"],
-		"correctAnswerIndex": 3,
-		"feedback:": "The hallmark of mankind's maturity will be the unification of the human race."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Baha'is believe there is/are:",
-		"answers": ["four human races.", "five human races.", "three distinct human races.", "one human race."],
-		"correctAnswerIndex": 3,
-		"feedback:": "Baha'is believe there is only one race...The Human Race."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The Baha'is believe in the adoption of a universal _____ auxiliary language",
-		"answers": ["auxiliary", "English", "computer", "spiritual"],
-		"correctAnswerIndex": 0,
-		"feedback:": "The Baha'is believe in the adoption of a universal auxiliary language."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Humanity is emerging from childhood and approaching ________ .",
-		"answers": ["disaster", "old age", "balance", "maturity"],
-		"correctAnswerIndex": 3,
-		"feedback:": "Humanity is finally approaching maturity. I can't wait!"
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Baha'is share a common goal of ______ and refining their inner-lives",
-		"answers": ["sharing humanity", "playing humanely", "serving humanity", "plotting revengefully"],
-		"correctAnswerIndex": 2,
-		"feedback:": "Serving humanity is the goal."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "________ are at the heart of the pattern of Baha'i community life",
-		"answers": ["Servants and worship", "Savants and willingness ", "Servings and well being", "Service and worship"],
-		"correctAnswerIndex": 3,
-		"feedback:": "Service and worship are at the heart of the Baha'i lifestyle."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "_________ acknowledges that the wealth of cultural diversity is vital to the development of the human race.",
-		"answers": ["Ornery and Durability", "Unity in Diversity", "Kindness in Obscurity", "Unity and Bio-diversity"],
-		"correctAnswerIndex": 1,
-		"feedback:": "Unity in Diversity is an appreciation of the diversity of human life and culture."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Bahá'ís also believe that ______ are equally immoral and should be reduced.",
-		"answers": ["indescretions such as prolixity ", "inequalities such as poverty", "individuality of profession", "increase of police"],
-		"correctAnswerIndex": 1,
-		"feedback:": "Extremes of wealth and poverty must be addressed."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "The integration of devotion and service finds expression in the institution of the _______.",
-		"answers": ["Mashriq'i - Aqár", "Mashad i Idhkár", "Mashi’l-Abdaás", "Mashriqu’l-Adhkár"],
-		"correctAnswerIndex": 3,
-		"feedback:": "Mashriqu’l-Adhkár or the House of Worship is the institution."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Bahá'ís believe that _____ distinction are not part of God's plan and are unnatural additions to the natural order of things.",
-		"answers": [" prejudice and racial", "purposeful rationality", "kindness and compassion", "peace and harmony"],
-		"correctAnswerIndex": 0,
-		"feedback:": "Prejudice and racial distinction are not part of God's plan."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Bahá'ís believe that humanity must now move forward to global maturity, recreating itself as a ",
-		"answers": ["single human bean", "single human culture", "single human being", "single human family"],
-		"correctAnswerIndex": 3,
-		"feedback:": "We should move towards being a single human family."
-
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Mashriqu’l-Adhkár, translated means “______.",
-		"answers": ["“The Place of prayer.", "The Dawning Place of the Mention of God.", "“The Center of the House of God.", "The Place of God."],
-		"correctAnswerIndex": 1,
-		"feedback:": "Mashriqu’l-Adhkár, translated means “The Dawning Place of the Mention of God."
-	}, {
-		"category": "Category: Bahá’í Basics",
-		"question": "Baha'is are working to contribute to the advancement of ___ civilization.",
-		"answers": ["maternal and social", "manditory and spiritual", "  material and spiritual", "marshmallow and sweet"],
-		"correctAnswerIndex": 2,
-		"feedback:": "Material and spiritual advancement."
-	},
-
- 
- 
- 
- 
-	{
-		"category": "Category: Global Faith I",
-		"question": "In Islam, what is the Shahada?",
-		"answers": [
-			"Profession of Faith",
-			"Expression of Courtesy",
-			"Prayer and Fasting",
-			"The point of Adoration"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Profession of Faith 'There is no God but God and Muhammad is his prophet.'"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "How many times each day do Muslims pray?",
-		"answers": [
-			"3",
-			"5",
-			"7",
-			"9"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Muslims are expected to pray five times a day."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of these is not one of the pillars of Islamic belief?",
-		"answers": [
-			"Giving Alms to those who are less fortunate.",
-			"Going on pilgrimage to Mecca",
-			"Daily Prayer ",
-			"Avoiding unclean foods like pork."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "While muslims do not eat pork, it is not one of the five pillars of Islam."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "How many times do the Muslims circumambulate the Kaabah?",
-		"answers": [
-			"1",
-			"3",
-			"5",
-			"7"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Muslims circumambulate the Kaabah Seven Times, this is called Tawaf"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which Islamic principle does the Hajj demonstrate?",
-		"answers": [
-			"Submission to the Will of God",
-			"Equality and universal brotherhood",
-			"Obedience and Certitude",
-			"Importance of charity"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Muslims gather to meet one another and demonstrate to each other, and the world, that they are united. Unity in diversity and universal brotherhood."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What was the first article laid down by the Prophet Muhammad (PBUH) for the inhabitants of Medina?",
-		"answers": [
-			"All were considered members and citizens of Medina society regardless of religion, race, or ancestry",
-			"Only Muslims were given shelter in Medina",
-			"Other groups were asked to leave Medina",
-			"Muslims were given special powers"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "All were considered members and citizens of Medina society regardless of religion, race, or ancestry."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "According to Islam, which scripture was revealed to Prophet Moses?",
-		"answers": [
-			"Zabur (Psalms) was revealed to the Prophet Moses.",
-			"Torah (Old Testament) was revealed to the Prophet Moses.",
-			"The Book of Leviticus was revealed to the Prophet Moses",
-			"Muslims do not accapt that the Prophet Moses received any revelation."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Quran mentions that the Torah (Old Testament) was revealed to the Prophet Moses"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What does the Quran say about the use of force to spread the religion?",
-		"answers": [
-			"The Quran authorizes use of force for spreading the religion only if necessary. (Quran 2:256)",
-			"The Quran says '..Let there be no compulsion in religion..' (Quran 2:256)",
-			"There is no mention in the Quran about the spreading the religion."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "'Invite (all) to the way of thy Lord with wisdom and beautiful preaching; and argue with them in ways that are best and most gracious.' (Quran 16:125)"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What did the Prophet Muhammad mention was the greatest jihad?",
-		"answers": [
-			"The greatest jihad is to lie to others.",
-			"The greatest jihad is to defeat the forces of past religions.",
-			"The greatest jihad is to hold anger in your heart.",
-			"The greatest jihad is to struggle with the insidious suggestions of one’s own soul"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": " It is to struggle with the insidious suggestions of one’s own soul. Thus jihad refers to struggle of being a person of virtue and submission to God"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What did Prophet Muhammad mention about being merciful?",
-		"answers": [
-			"Be merciful to all beings on Earth.",
-			"Be merciful only to other Muslims.",
-			"Be merciful only to 'People of the Book'",
-			"Be merciful to all who are merciful to you."
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Muhammad said 'Be merciful on the earth and you will be shown mercy from the One who is above the Heavens'"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Whom did Prophet Muhammad describe as a strong person?",
-		"answers": [
-			"One who is both physically and mentally strong.",
-			"One who is strong of heart.",
-			"One who controls his anger.",
-			"One who has material wealth."
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "One who controls his anger."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What are the chapters of the Quran called?",
-		"answers": [
-			"Surah",
-			"Tablets",
-			"Odes",
-			"Ikhlas"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The chapters of the Quran are called Surah."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "According to the Quran, How should women be treated in Islam?",
-		"answers": [
-			"Women should be treated as servants of men.",
-			"Women are considered as bad omens and unclean.",
-			"Women have no freedom in Islam and must do as men say.",
-			"Women be treated with respect, honour and justice. It condemns oppression of any kind."
-		],
-		"correctAnswerIndex": 1,
-		"feedback": " In Islam women, like men, are commanded to believe in God and to worship Him. Women are equal to men in terms of reward in the hereafter. "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "In which country did Buddhism begin?",
-		"answers": [
-			"India",
-			"Malaysia",
-			"China",
-			"Japan"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Yes, Buddhism originated in India."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What is Dharma?",
-		"answers": [
-			"The teachings of the Buddha.",
-			"A Symbol of Buddhism",
-			"The name of Buddha.",
-			"A statue found in a Buddhist temple"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Dharma is the teachings of Buddha."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Where does the Eightfold Path lead?",
-		"answers": [
-			"To heaven.",
-			"To rebirth.",
-			"To enlightenment.",
-			"To Xanadu."
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The path leads to Enlightenment, or Nirvana."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "In Buddhism, what does the lotus flower represent?",
-		"answers": [
-			"Rebirth",
-			"Strength",
-			"Perfection",
-			"Purity"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "In Buddhism, the lotus flower represents purity."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "The goal of Buddhists is to be free from suffering, greed, hatred and delusion. What is the name given to this state?",
-		"answers": [
-			"Birvana",
-			"Nirvana",
-			"Cirvana",
-			"Tirvana"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Nirvana is understood as the end of attachment in life and therefore freedom from karma."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What is the belief that people's present actions will affect them in the future. ",
-		"answers": [
-			"Nirvana",
-			"Karma",
-			"Compassion",
-			"Onlat"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Karma is the belief that people's present actions will affect them in the future. "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Buddhism teaches that we should ...",
-		"answers": [
-			"Let others control our lives.",
-			"Not be concerned about anything that happens",
-			"Develop a state of consciousness.",
-			"Practice 'Hakuna Matata'"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Consciousness might also be thought of as awareness.."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "A Sanskrit word meaning 'action' or 'fate', a lot of people equate it to 'what goes around comes around'. What is this term?",
-		"answers": [
-			"Sutra",
-			"Karma",
-			"Bothi",
-			"Sangri-La"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Karma has come to mean 'What goes around, comes around.'"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What was the real name of the founder of Buddhism?",
-		"answers": [
-			"Suryabaya",
-			"Ashoka",
-			"Siddhartha Gautama",
-			"Boromir Ashoka"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Siddhartha Gautama is the real name of the Buddha."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Siddhartha Gautama, the founder of Buddhism, was born ..... ",
-		"answers": [
-			"a prince",
-			"a priest",
-			"a sage",
-			"a seer"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Buddha was born a prince. "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What language was the New Testament originally written in?",
-		"answers": [
-			"Greek",
-			"Hebrew",
-			"Latin",
-			"Aramaic"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The New Testament was originally written in Greek."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "When was the Christian New Testament written?",
-		"answers": [
-			"Between 50 - 120 AD",
-			"Between 100 - 150 AD",
-			"Between  20 - 150 AD",
-			"Between  120 - 240 AD"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "It was only about 20 years after Jesus' death that people began to write down the things they remembered"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What does 'Christ' mean",
-		"answers": [
-			"Holy God",
-			"The Pure",
-			"Son of God",
-			"The Annointed"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "'Christ' (from the Greek 'Christos' ) is the equivalent of 'Messiah' (from the Hebrew 'mashiach'), meaning 'anointed.' "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What religion did Jesus practice?",
-		"answers": [
-			"Judaism",
-			"Christianity",
-			"Islam",
-			"Zoroastrianism"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Jesus was born a Jew and was faithful to Judaism his whole life. He was known as a rabbi among the people of Palestine."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of these was at the heart of Jesus' teachings?",
-		"answers": [
-			"The restoration of the glory of the nation of Israel",
-			"The defeat of the Gods of the Roman Empire",
-			"The coming of the kingdom of God",
-			"The establishment of the Christian Church"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "The Jews  expected their Messiah to be a great leader, but Jesus' kingdom is a spiritual kingdom rather than an earthly kingdom. It exists whereve."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What did Jesus say were the two great Commandments that should guide our lives?",
-		"answers": [
-			"You shall not murder and you shall not covet anything that belongs to your neighbor.",
-			"You shall not bow down before any idol, and you shall not covet anything that belongs to your neighbor.",
-			"Remember the Sabbath and keep it holy, and you shall have no other gods before me.",
-			"Love the Lord your God with all your heart and with all your soul and with all your mind, and love your neighbor as yourself."
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Love the Lord your God with all your heart and with all your soul and with all your mind, and love your neighbor"
-	},
-	{
-
-		"category": "Category: Global Faith I",
-		"question": " Which of these men encountered Jesus for the first time while on the road to Damascus?",
-		"answers": [
-			"Peter",
-			"Paul",
-			"Luke",
-			"John"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Paul didin a vision. He also took the title 'apostle', although he was not one of the original twelve."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of these men was a tax collector before becoming Jesus' disciple?",
-		"answers": [
-			"Matthew",
-			"Mark",
-			"John",
-			"Steve"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Matthew was originally a tax collector for the occupying Roman Empire."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of these was not an original Apostle of Christ?",
-		"answers": [
-			"Luke",
-			"John",
-			"Judas",
-			"Paul"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Paul was not one of the original twelve. "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Jesus was baptized and began his ministry at about age 30. Who baptized Him?",
-		"answers": [
-			"John",
-			"Mary",
-			"Joseph",
-			"Joshua"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "John the Baptist baptised Jesus."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "According to Jesus, which of these is NOT not a characteristic of those who truly love God?",
-		"answers": [
-			"Mercy",
-			"Obediance",
-			"humility",
-			"Pride"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Evils of pride in the sense of being self-righteous, conceited or disdainful."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Fill in the blank. 'Come to Me, all who are weary and heavy-laden, and I will give you _______.'",
-		"answers": [
-			"Eternal Life",
-			"Peace",
-			"Rest",
-			"Friendship"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Come to Me, all who are weary and heavy-laden, and I will give you rest."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "According to Hinduism, who is the king of gods?",
-		"answers": [
-			"Shiva",
-			"Indra",
-			"Brama",
-			"Vishnu"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Indra is the god of thunder and uses Vajrayudha as his weapon"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Who is the Hindu goddess of knowledge?",
-		"answers": [
-			"Lakshmi",
-			"Parvathi",
-			"Saraswati",
-			"Shakuntala"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Saraswati is the goddess of knowledge, wife of Brahma and sits above a lotus. Lakshmi is the wife of Vishnu"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "In the Kurukshetra war, Krishna was the charioteer of which great warrior?",
-		"answers": [
-			"Bhima",
-			"Karna",
-			"Drona",
-			"Arjuna"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Krishna played a vital role in leading the Pandavas to victory and with his bravery he saved Arjuna from various dangers he faced in battle with Karna"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of these is a holy book of Hinduism?",
-		"answers": [
-			"The Upanishads",
-			"The Bhagavad Gita",
-			"The Shakuntala",
-			"The Arjuna Mantra"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Bhagavad Gita means 'Song of the Lords' and is Krishna's teachings to Arjuna"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "How is the Buddha regarded in Hinduism?",
-		"answers": [
-			"He was a disciple of Krishna.",
-			"He was a false prophet.",
-			"He never existed.",
-			"He was one of the avatars of Vishnu"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Gautama Buddha, the founder of Buddhism, is considered to be one of the many incarnations of Lord Vishnu, as stated in Bhagavata Purana"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "The Trimurti is made up of Brahma, Vishnu and Shiva. What does Trimurti  mean?",
-		"answers": [
-			"Three Gods",
-			"Three Forms",
-			"Three Crowns",
-			"The Three Avatars"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Trimurti is used to describe the three forms of the same Supreme Soul. The creator is called Brahma, the protector Vishnu and the destroyer Shiva"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of the Hindu castes is strictly vegetarian?",
-		"answers": [
-			"The Priest caste",
-			"The Artisan caste",
-			"The Warrior caste",
-			"The Farmer caste"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "The Brahmin caste follows a very pure way of life."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What is the Sacred River of Hinduism?",
-		"answers": [
-			"The Ganga",
-			"The Indus",
-			"The Bramaputra",
-			"The Rio Grande"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Ganga or Ganges, as well as being purifying and the most sacred of rivers is also the wife of Shantanu and the mother of Bhishma"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "The purpose of life is seen to be gaining liberation from the circle of reincarnation by resolving Karma. What name is given to this achievement?",
-		"answers": [
-			"Sutra",
-			"Veda",
-			"Moksha",
-			"Banjali"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Moksha, or the eternal salvation, is what everybody is to strive for."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "This is one of the most famous, and the most read, epics of all time. It was written by Valmiki, who is regarded as a Maharishi.",
-		"answers": [
-			"Ramayana",
-			"Hinduyama",
-			"Gangayama",
-			"Hava Mein ud Gaya"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Ramayana is an ancient Indian epic poem which narrates the struggle of the divine prince Rama to rescue his wife Sita from the demon king Ravana"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What is the literal translation of the Sanskrit term 'Advaita'?",
-		"answers": [
-			"Not One",
-			"Not Two",
-			"One Consciousness",
-			"Two Minds"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "Advaita means 'not two' rather than 'all one' or similar, as saying all is one is seen as too simplistic. Saying 'not two' leads to a state more or less beyond words"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which festival is also known as the festival of lights?",
-		"answers": [
-			"Diwali",
-			"Mahashivaratri",
-			"Holi",
-			"Ram Navami"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": " Diwali is an ancient Hindu festival. The festival spiritually signifies the victory of light over darkness, knowledge over ignorance, good over evil, and hope over despair.  "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What is the name of the person that leads the service?",
-		"answers": [
-			"Vishali",
-			"Ravioli",
-			"Rabbi",
-			"Leader"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Services are led by a Rabbi."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "The traditional skull-cap worn by Jewish men is called a what?",
-		"answers": [
-			"Yarmulka",
-			"Mitre",
-			"Zuchetto",
-			"Malicostra"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": " A yarmulke or kippah is usually made of cloth, and is worn by Jewish men. "
-	}, 
- {
-		"category": "Category: Global Faith I",
-		"question": "What is the Shahadah?",
-		"answers": [
-			"The first Surah of the Koran",
-			"The name of the King in Hinduism",
-			"The statement of faith in Islam",
-			"The king of Babalon"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": " The shahadah is the formal statement of faith in Islam. "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of these are Mormons allowed to drink?",
-		"answers": [
-			"Tea",
-			"Coffee",
-			"Whiskey",
-			"Dr. Pepper"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Dr.Pepper is the only type of drink the Mormons are allowed. Pepsi and coke are OK too of course. "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "What does 'Upanishads' mean?",
-		"answers": [
-			"Sitting by a guru.",
-			"Living a pure life.",
-			"Doing no harm",
-			"Eating no pepperoni"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Upanishads means sitting by a guru. "
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Which of these is not one of the Jewish books?",
-		"answers": [
-			"Talmud",
-			"Mishna",
-			"Halud",
-			"Torah"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": " The halud is not a Holy book. I just made it up!"
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "Muslims believe God told Abraham to build a sanctuary where?",
-		"answers": [
-			"Jeruselum",
-			"Medina",
-			"Paris",
-			"Zamzam"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Zamzam is a well located within the Masjid al-Haram in Mecca. "
-	},{
-		"category": "Category: Global Faith I",
-		"question": "What was the occupation of Muhammad growing up?",
-		"answers": [
-			"Camel driver",
-			"Priest",
-			"Keeper of the Holy Keys",
-			"Trader"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Muhammad was a camel driver when he was young. "
-	},{
-		"category": "Category: Global Faith I",
-		"question": "What is the name of the 40x40 foot cubic structure in Mecca near Zamzam. ",
-		"answers": [
-			"Kubac",
-			"Kabah",
-			"Koban",
-			"Zamzam"
-		],
-		"correctAnswerIndex": 1,
-		"feedback": "The Kabah is the cubic building located within the Masjid al-Haram in Mecca. "
-	},{
-		"category": "Category: Global Faith I",
-		"question": "How many sacrements are there in the Catholic church?",
-		"answers": [
-			"3",
-			"5",
-			"7",
-			"9"
-		],
-		"correctAnswerIndex": 2,
-		"feedback": "Seven!Baptism, Confirmation, Communion, Reconciliation, Anointing of the sick, Holy orders, Holy matrimony "
-	},{
-		"category": "Category: Global Faith I",
-		"question": "What happened in 312 AD",
-		"answers": [
-			"Constantine became Christian",
-			"Mohammed was born",
-			"Rome burned",
-			"Julius Caesar became a Christian"
-		],
-		"correctAnswerIndex": 0,
-		"feedback": "Constantine became Christian and Christianity grew quickly."
-	},
- {
-		"category": "Category: Global Faith I",
-		"question": "The Jewish Festival of Passover, commemorates ...",
-		"answers": [
-			"The Jewish New Year",
-			"The Jewish equivalent of Christmas",
-			"The arrival of Spring",
-			"The Israelite Exodus from Egypt around 1450 BC"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "Passover, or Pesach, commemorates the liberation of the ancient Hebrews from slavery in Egypt over 3,300 years ago."
-	}, {
-		"category": "Category: Global Faith I",
-		"question": "In Judaism, giving to charity is . . .",
-		"answers": [
-			"done at specific times of the year in tandem with Jewish festivals",
-			"left to the individual to decide as appropriate",
-			"only given to those with a direct need",
-			"a requirement"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "'tzedakah', signifying charity, literally means 'righteous behaviour' is a term implying generosity beyond that which may be expected - but is actually a requirement"
-	},
- {
-		"category": "Category: Global Faith I",
-		"question": "In Judaism, giving to charity is . . .",
-		"answers": [
-			"done at specific times of the year in tandem with Jewish festivals",
-			"left to the individual to decide as appropriate",
-			"only given to those with a direct need",
-			"a requirement"
-		],
-		"correctAnswerIndex": 3,
-		"feedback": "'tzedakah', signifying charity, literally means 'righteous behaviour' is a term implying generosity beyond that which may be expected - but is actually a requirement"
-	},
- {
+[
+  {
+    "category": "Category: Bahá’í  Basics",
+    "question": "The first month of the Bahá’í Year is called what?",
+    "answers": [
+      "Ala",
+      "Mulk",
+      "Baha",
+      "Masa'il"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Baha is the first month of the Bahá’í year."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of these is a country Abdu'l-Baha never visited?",
+    "answers": [
+      "Turkey",
+      "Egypt",
+      "Romania",
+      "Bulgaria"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Abdu'l-Baha never visited Romania. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many men serve of the Universal House of Justice?",
+    "answers": [
+      "5",
+      "9",
+      "11",
+      "18"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Universal House of Justice has nine members who are elected every 5 years."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "November 26 is a day set aside to celebrate the life of `Abdu'l-Bahá. What is this day known as?",
+    "answers": [
+      "Thee day of Unity",
+      "Day of Reflection",
+      "Day of the Covenant",
+      "Day of the Divine Plan"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "November 26th is known as the Day of the Covenant."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Martyrdom of the Báb is commemorated at noon on what date?",
+    "answers": [
+      "July 9",
+      "May 29",
+      "August 14",
+      "November 28"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The martyrdom of the Bab was martyred on July 9th at noon."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "On which day of Ridván is work NOT suspended?",
+    "answers": [
+      "first",
+      "third",
+      "ninth",
+      "twelfth"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Work is not suspended on the third day of Ridvan. The other three are holidays!"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many Terraces are there at the Shrine of the Bab?",
+    "answers": [
+      "9",
+      "18",
+      "19",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "There are 19 terraces stretching from the foot of Mt. Carmel to the Shrine of the Bab."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "In what tablet did Baha'u'llah refer to the Arc on Mt. Carmel?",
+    "answers": [
+      "Tablet of the Arc",
+      "Tabley of the Covanent",
+      "Tablet of the Holy Mariner",
+      "The tablet of Carmel"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Baha'u'llah refers to the arc in the Tablet of Carmel."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many pillars support the Seat of the Universal House of Justice?",
+    "answers": [
+      "58",
+      "81",
+      "95",
+      "98"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "There are 58 pillars. You thought it was 95 didn't you?"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What is the significance of the 21st of April 1863?",
+    "answers": [
+      "It marks the day on which Baha'u'llah declared His mission",
+      "It marks the day on which the Bab was martyred",
+      "It marks the day on which Baha'u'llah arrived in Akka",
+      "It marks the day on which Abdu'l-Baha arrived in America"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The 21st of April marks the day that Baha'u'llah declared his mission. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Where did Baha'u'llah declare His mission?",
+    "answers": [
+      "In the Garden of Ali in Teheran",
+      "In the forest of Husayn near Tabriz",
+      "In the royal court of the Sultan in Intanbul",
+      "In the garden of Ridvan in Baghdad."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Baha'u'llah declared His mission on the twelfth day of Ridvan in the Garden of Ridvan."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What was the original name of the Garden of Ridvan?",
+    "answers": [
+      "Najibiyyih Garden",
+      "Shazdeh Garden",
+      "Shaherazad Garden",
+      "Royal Baaghdadi Gardens"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Garden of Ridvan was originally called the Najibiyyih Garden."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What does Ridvan mean in English?",
+    "answers": [
+      "Heaven",
+      "Beauty",
+      "Glory",
+      "Paradise"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Ridvan in English means Paradise. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many years after the Bab's declaration in 1844 did Baha'u'llah declare?",
+    "answers": [
+      "9",
+      "10",
+      "12",
+      "19"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Baha'u'llah declared his mission in 1863 so the correct answer is 19. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "In what city was the Garden of Ridvan located?",
+    "answers": [
+      "Constantanople",
+      "Baghdad",
+      "Adrianople",
+      "Teheran"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Garden of Ridvan was located in Baghdad."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Where was Baha'u'llah exiled, after His stay in the Garden of Ridvan??",
+    "answers": [
+      "Constantinople",
+      "Baghdad",
+      "Alexandria",
+      "The Black Pit in Teheran"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "He was exiled first to Constanople and later to Adrianople. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of these is NOT a central teaching of the Baha'i Faith?",
+    "answers": [
+      "Unity of Mankind",
+      "Equality of Men and Women",
+      "The blind observance of tradition",
+      "Spiritual solution to economic problems"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "We should not blindly follow but investigate reality for ourselves. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Baha'i faith is:",
+    "answers": [
+      "polytheistic.",
+      "monotheistic",
+      "duotheistic",
+      "Tritotheistic"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Baha'is believe in one God so it is monotheistic. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of the following is NOT considered a divine messenger by adherents of the Baha'i faith?",
+    "answers": [
+      "Buddha",
+      "Krishna",
+      "Abraham",
+      "Confucious"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Although Confucious gave the world much wisdom, he is not considered a messenger of God."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Baha'i house of worship in India is in the shape of:",
+    "answers": [
+      "a rose",
+      "a wheel of eternity",
+      "a lotus blossom",
+      "a Star"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The beautiful Indian temple is built in the shape of a lotus blossom. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The elimination of this is a central teaching of the Baha'i Faith.",
+    "answers": [
+      "wealth",
+      "government",
+      "illness",
+      "prejudice"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Baha'is should eliminate all forms of prejudice from their hears."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The universal auxiliary language will be: ",
+    "answers": [
+      "English",
+      "Farsi",
+      "Arabic",
+      "We don't know."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "We do not know which language will be chosen."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Religion must conform to science and reason or: ",
+    "answers": [
+      "it will lead to superstition.",
+      "it will lead to war.",
+      "it will lead to anger and prejudice.",
+      "it will lead to spicy food."
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Religion without science will result in superstition. Science and religion must agree."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of these is a central teaching of the Baha'i faith?",
+    "answers": [
+      "Universal education",
+      "redistribution of property",
+      "Vegetarianism is our future",
+      "patience with idiots"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Universal education for all is a central tenet of the faith. Patience thouh is good."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Each Bahá’í month lasts for how many days?",
+    "answers": [
+      "19",
+      "21",
+      "28",
+      "30"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Each month has 19 days."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What does Naw Ruz mark the end of?",
+    "answers": [
+      "Ayyam'i'Ha",
+      "The days of sorrow.",
+      "The celebration of Ridvan",
+      "The Fast"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "After the 19 days of fasting, we enjoy Naw-Ruz. Hooray! Let's eat!"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What year did Abdu’l-Baha first visit the U.S.?",
+    "answers": [
+      "1909",
+      "1912",
+      "1915",
+      "1920"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Abdu'l-Baha visited the U.S. in 1912."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What does 'The Báb' mean? ",
+    "answers": [
+      "Bridge",
+      "The Mahdi",
+      "Gate",
+      "Beloved"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The word Báb in Arabic means Gate."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "On what date did the Báb declare his mission?",
+    "answers": [
+      " April 21, 1843",
+      " May 23, 1844",
+      " June 2, 1845  ",
+      " May 30, 1849"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Báb declared himself to Mulla Husayn on May 23, 1844 in Shiraz."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": " What was the Báb's name at birth?  ",
+    "answers": [
+      "Siyyid 'Ali-Muhammad",
+      "Siyyid Allah Muhammed",
+      "Siyyid Kazim-Rashti",
+      "Siyyid Husayn Ali"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Báb's birth name was Siyyid 'Ali-Muhammad."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What is the month of Fasting called?",
+    "answers": [
+      "Baha",
+      "Jamal",
+      "Nur",
+      "Ala"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "The month of fasting is called Ala. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Kitab i Aqdas is known in English as?",
+    "answers": [
+      "The Most Great Book",
+      "The Book of Revelation",
+      "The book of Certitude",
+      "The Most Holy Book"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "The Kitab'i-Aqdas is known as The Most Holy Book."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What city is the Shrine of the Báb located in?",
+    "answers": [
+      "Acca",
+      "Haifa",
+      "Carmel",
+      "Teheran"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The shrine of the Báb is located on Mount Carmel in Haifa Israel."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Báb foretold the coming of what prophet?",
+    "answers": [
+      "Bahá'u'lláh”",
+      "Muhammad",
+      "Zoroaster",
+      "Jesus"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Báb foretold the coming of Baha'u'llah. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Whom did Bahá’u’lláh appoint as his successor?",
+    "answers": [
+      "Abdu’l-Bahá",
+      "Shoghi Effendi",
+      "Shaykh Ahmad",
+      "The Universal House of Justice"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Bahá’u’lláh appointed Abdu'l-Baha as his successor."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Bahá’í calendar starts from which year?",
+    "answers": [
+      "1817",
+      "1844",
+      "1853",
+      "1893"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Bahá’í calendar began in the year 1844."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What is the name of the elected world body which handles the affairs of the Faith?",
+    "answers": [
+      "The Social Development Council",
+      "The Eternal House of Progress",
+      "The Universal House of Justice",
+      "The Spiritual Unity Cooperative"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The Universal House of Justice is the supreme elected body of the world."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What is the most fundamental teaching of the Bahá’í Faith?",
+    "answers": [
+      "Detachment",
+      "Honesty",
+      "Happiness",
+      "Unity"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Unity is the most fundimental teaching of the Bahá’í Faith."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many years did Baha'u'llah say would pass before another Messenger of God would appear?",
+    "answers": [
+      "900 years",
+      "1000 years",
+      "2000 years",
+      "He did not say."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Baha'u'llah said that it would be at least 1000 before another Messenger would appear."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of the following should Bahá’ís avoid?",
+    "answers": [
+      "Shellfish",
+      "Medicines",
+      "Alcohol",
+      "Chicken Salad"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The drinking of wine… is, according to the text of the Most Holy Book, forbidden "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of the following are not exempt from fasting?",
+    "answers": [
+      "Anyone over 70",
+      "Anyone who is pregnant or nursing",
+      "Anyone who works as a chef in a restaurant",
+      "Anyone doing heavy manual labour"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "When if you work as a chef in a restaurant, you should still fast. Sorry! "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Bahá’u’lláh forbids backbiting. What does this mean?",
+    "answers": [
+      "Arguing with someone",
+      "Talking about people in their absence.",
+      "Being rude to your parents.",
+      "Giving someone the evil eye."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Talking about people in their absence. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "When saying a daily obligatory prayer, a Bahá’í should turn towards which holy place?",
+    "answers": [
+      "The Shrine of the Báb in Haifa, Israel",
+      "The House of Bahá’u’lláh in Baghdad, Iraq",
+      "The House of Bahá’u’lláh in Edirne, Turkey",
+      "The Shrine of Bahá’u’lláh near Akka, Israel"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Bahá’ís should face The Shrine of Bahá’u’lláh near Akka, Israel. Do you have the app?"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of these is sometimes used as a greeting by the Bahá’ís?",
+    "answers": [
+      "Peace be upon you.",
+      "May God's light shine on you.",
+      "Alláh-u-Abhá",
+      "Alláh-u-Akbar"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Alláh-u-Abhá meaning God is the Most Glorious is often used as a greeting. Alláh-u-Abhá!"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": " Bahá’ís must obtain their parents’ permission to:",
+    "answers": [
+      "Leave home",
+      "Get married",
+      "Date someone at college",
+      "Play video games"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "You can do as you like but you do need your parents permission to marry."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of these is a Bahá’í burial law.",
+    "answers": [
+      "The body must be wrapped in a pure white shroud.",
+      "The body should be buried less than an hour’s journey from the place of death.",
+      "The deceased's family should wear black as a sign of respect.",
+      "All the person’s valuable possessions should also be placed in the grave "
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The deceased should be buried less than an hour’s journey from the place of death."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "On the first day of each Bahá’í month, there is a meeting of each local Bahá’í community.What is this called?",
+    "answers": [
+      "The Day of Spirituality",
+      "The Feasting Day",
+      "The Day of the Covenant.",
+      "The Nineteen Day Feast."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Bahá’ís gather for The Nineteen Day Feast"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many Holy Days are there during the year on which work should be suspended.",
+    "answers": [
+      "6",
+      "9",
+      "10",
+      "19"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "There are nine holy days. Check them out."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How does a person join the Bahá’í community",
+    "answers": [
+      "By completing a sequence of courses and getting a passing grade.",
+      "By declaring their belief in Bahá’u’lláh as a messenger of God.",
+      "By undergoing a secret initiation ceremony",
+      "By paying a subscription fee and signing a membership form"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "By declaring belief in Bahá’u’lláh as a messenger of God, and a willingness to follow his teachings."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which is the most important Bahá’í festival?",
+    "answers": [
+      "Naw-Ruz",
+      "The 12 Days of Ridván",
+      "The day of the Covenant",
+      "Ayyam'i-Ha because I get presents!"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The 12 days of Ridvan during which Bahá’u’lláh announced his mission to his followers."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Nine elected members make up this institution that guides the development of the Bahá’í world.",
+    "answers": [
+      "The Universal House of Justice",
+      "The United Nations",
+      "The Universal Board of Counselors",
+      "The International House of Pancakes"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Universal House of Justice is made up of nine elected members."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How long do terms on the Universal House of Justice last? ",
+    "answers": [
+      "4 years",
+      "5 years",
+      "7 years",
+      "They change at the end of each plan"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Each term lasts 5 years."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which is not an elected position in the Bahá’í Faith?",
+    "answers": [
+      "National Spiritual Assembly",
+      "Local Spiritual Assembly",
+      "Continental board of counselors",
+      "Universal House of Justice member"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Continental board of ounselors are appointed not elected. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Bahá’í principle in which humanity will always be guided by a series of Messengers sent by God",
+    "answers": [
+      "Progressive Revelaation",
+      "The Holy Trinity",
+      "The Eternal Progression",
+      "The Holy Multitude"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Bahá’í principle in which humanity will always be guided by a series of Messengers sent by God is known as Progressive revelation."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Baha'u'llah teaches that heaven and hell:",
+    "answers": [
+      "are to be understood symbolically",
+      "are real places.",
+      "are nonexistent because our souls cease to exist after death."
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "They are to be understood symbolically and describe a state of nearness to or distance from God."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Baha'u'llah teaches that the purpose of this life is:",
+    "answers": [
+      "to acquire wealth and happiness. ",
+      "to study religion.",
+      "to develop virtues in preparation for the next world.",
+      "to receive and dispense justice."
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "We are in this world to develop virtues in preparation for the next world"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Baha'u'llah revealed the teachings of the Baha'i Faith in which two languages?",
+    "answers": [
+      "Arabic and English",
+      "Persian and Turkish.",
+      "Arabic and Klingon",
+      "Arabic and Farsi"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Arabic and Persian or Farsi are the primary languages He wrote in."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How should people find spiritual truth?",
+    "answers": [
+      "By following their parent's religion.",
+      "Though rejection of material things.",
+      "By learning from the clergy.",
+      "By investigating truth for themselves."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Independent investigation of truth."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How should people find spiritual truth?",
+    "answers": [
+      "By following their parent's religion.",
+      "Though rejection of material things.",
+      "By learning from the clergy.",
+      "By investigating truth for themselves."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Independent investigation of truth."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How should people find spiritual truth?",
+    "answers": [
+      "By following their parent's religion.",
+      "Though rejection of material things.",
+      "By learning from the clergy.",
+      "By investigating truth for themselves."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Independent investigation of truth."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many terms can a UHJ member serve?",
+    "answers": [
+      "Two five year terms.",
+      "Three four year terms.",
+      "Until they turn 70",
+      "There is no limit."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "There is no term limit."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many days each year do Bahá’ís fast?",
+    "answers": [
+      "19",
+      "19 or 20 depending on leap year.",
+      "30",
+      "30 or 31 depending on the year."
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": " Bahá’ís fast 19 days regardless of leap year."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "At what age should Bahá’ ís begin to fast ? ",
+    "answers": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Bahá’ís should begin to fast from the age of 15 and until they reach 70 if healthy."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "During the Fast, Baha'is are to abstain from food, water and smoking from sunrise to sunset. Which of these are not prohibited? ",
+    "answers": [
+      "food",
+      "water",
+      "beer",
+      "talking about how hungry they are."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": " While it may be counter productive to a good fast, whining is not expressly forbidden."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Who was appointed by `Abdu’l-Bahá to be the Guardian of the Bahá’í Faith after he passed away in 1921?",
+    "answers": [
+      "Siyyid Kazim",
+      "Kahil Gibran",
+      "Shoghi Effendi",
+      "The Universal House of Justice"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Abdu’l-Bahá appointed his grandson Shoghi Effendi to lead the faith."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Bahai faith promotes the agreement of:",
+    "answers": [
+      "science and religion",
+      "men and chickens",
+      "education and language",
+      "belief and superstition"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Baha’ i faith teaches that science and religion must agree."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Bahá’is should read something from the Baha’í scriptures every day. How often?",
+    "answers": [
+      "Every morning and evening",
+      "Whenever you like, but at least once a day.",
+      "Morning, noon and in the evening",
+      "Whenever there is a commercial on TV."
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": " Every morning and evening. Of course, you can pray and read at other times as well."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "________ of all kinds whether religious, racial, patriotic or political is destructive of divine foundations in man.",
+    "answers": [
+      "Prejudice",
+      "Evil",
+      "Possessions",
+      "Lies"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Prejudice of all kinds, whether religious, racial, patriotic or political is destructive of divine foundations in man."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "This will enable them to qualify and progress in all degrees of occupation and accomplishment. Who is this quote about? ",
+    "answers": [
+      "all people",
+      "women",
+      "souls",
+      "doves"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "There must be an equality of rights between men and women. Women shall receive an equal privilege of education. This will enable them . . ."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of these is NOT a Baha’i Month?",
+    "answers": [
+      "Glory",
+      "Beauty",
+      "Charity",
+      "Knowledge"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "While charity is a wonderful thing, it is not one of the named Bahá’ í months."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What are the Baha’i months named for?",
+    "answers": [
+      "Attributes of God",
+      "The power of God",
+      "Traditional Persian months",
+      "The will of God"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "These are all attributes of God."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "How many days is the festival of Ridván",
+    "answers": [
+      "2",
+      "5",
+      "9",
+      "12"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "There are 12 days of Ridvan but not are all days off at work."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Which of these is NOT a Baha’ i Holy day ?",
+    "answers": [
+      "Naw - Ruz",
+      "Birth of Abdu’ l - Baha",
+      "Day of the Covenant",
+      "Declaration of the Báb"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The birth of Abdu’l-Baha is not one of the Holy Days."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "This time commemorates the public proclamation of Baha’ u’ llah’ s mission as God’ s messenger for this age.",
+    "answers": [
+      "Ridvan",
+      "Naw Ruz",
+      "Ayyam’ i’ Ha",
+      "Day of the Covenant"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Ridvan is the time when Bahá’u’lláh declared his mission."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Another name for the Baha’ i calendar is: ",
+    "answers": [
+      "The Babi calendar",
+      "The Hadi calendar",
+      "The Badi calendar",
+      "The Walii calendar"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The Badi calendar is another way of saying the Baha’ i calendar."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Badi (The Badi calendar) means what in Arabic?",
+    "answers": [
+      "Dawn",
+      "Solar year.",
+      "The fresh wind that envigorates",
+      "To create anew."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "It means to begin anew or wondrous. "
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "What Baha’í month does Ayyam-i-Ha fall into ? ",
+    "answers": [
+      "Mulk",
+      "Ala",
+      "Baha",
+      "It doesn’ t fall in a Bahá’í month."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "It does not fall in any month but is between the months of Mulk and Ala."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Every human being possesses an _________, rational soul.",
+    "answers": [
+      "immortal",
+      "massive",
+      "long living",
+      "temporary"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback:": "Every human being possesses an immortal, rational soul."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The soul continues for _________ to advance towards God.",
+    "answers": [
+      "a lifetime",
+      "a really long time",
+      "eternity",
+      "many years"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback:": "Good News! The soul continues for eternity to advance towards God."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Bahá’í Writings explain that the ________ is beyond the understanding of any mortal mind.",
+    "answers": [
+      "reality of man",
+      "depths of physics",
+      "mastery of philosophy",
+      "reality of God"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "The Bahá’í Writings explain that the reality of God is beyond the understanding of any mortal mind."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Through the teachings of the Manifestations of God, humanity’s spiritual, intellectual and _____ capacities have been cultivated.",
+    "answers": [
+      "mental",
+      "moral",
+      "material",
+      "managable"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback:": "Through the teachings of the Manifestations of God, humanity’s spiritual, intellectual and moral capacities have been cultivated."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Humanity, having passed through the ages of infancy and childhood, now stands at the threshold of its collective ________",
+    "answers": [
+      "mendacity",
+      "maturity",
+      "monetary",
+      "mental"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback:": "Humanity, having passed through the ages of infancy and childhood, now stands at the threshold of its collective maturity."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": " The hallmark of mankind's maturity will be the __________.",
+    "answers": [
+      "extirmination of the human race.",
+      "scientific progress of the human race.",
+      "education of the inhuman race.",
+      "unification of the human race"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "The hallmark of mankind's maturity will be the unification of the human race."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Baha'is believe there is/are:",
+    "answers": [
+      "four human races.",
+      "five human races.",
+      "three distinct human races.",
+      "one human race."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "Baha'is believe there is only one race...The Human Race."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The Baha'is believe in the adoption of a universal _____ auxiliary language",
+    "answers": [
+      "auxiliary",
+      "English",
+      "computer",
+      "spiritual"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback:": "The Baha'is believe in the adoption of a universal auxiliary language."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Humanity is emerging from childhood and approaching ________ .",
+    "answers": [
+      "disaster",
+      "old age",
+      "balance",
+      "maturity"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "Humanity is finally approaching maturity. I can't wait!"
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Baha'is share a common goal of ______ and refining their inner-lives",
+    "answers": [
+      "sharing humanity",
+      "playing humanely",
+      "serving humanity",
+      "plotting revengefully"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback:": "Serving humanity is the goal."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "________ are at the heart of the pattern of Baha'i community life",
+    "answers": [
+      "Servants and worship",
+      "Savants and willingness ",
+      "Servings and well being",
+      "Service and worship"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "Service and worship are at the heart of the Baha'i lifestyle."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "_________ acknowledges that the wealth of cultural diversity is vital to the development of the human race.",
+    "answers": [
+      "Ornery and Durability",
+      "Unity in Diversity",
+      "Kindness in Obscurity",
+      "Unity and Bio-diversity"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback:": "Unity in Diversity is an appreciation of the diversity of human life and culture."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Bahá'ís also believe that ______ are equally immoral and should be reduced.",
+    "answers": [
+      "indescretions such as prolixity ",
+      "inequalities such as poverty",
+      "individuality of profession",
+      "increase of police"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback:": "Extremes of wealth and poverty must be addressed."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "The integration of devotion and service finds expression in the institution of the _______.",
+    "answers": [
+      "Mashriq'i - Aqár",
+      "Mashad i Idhkár",
+      "Mashi’l-Abdaás",
+      "Mashriqu’l-Adhkár"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "Mashriqu’l-Adhkár or the House of Worship is the institution."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Bahá'ís believe that _____ distinction are not part of God's plan and are unnatural additions to the natural order of things.",
+    "answers": [
+      " prejudice and racial",
+      "purposeful rationality",
+      "kindness and compassion",
+      "peace and harmony"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback:": "Prejudice and racial distinction are not part of God's plan."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Bahá'ís believe that humanity must now move forward to global maturity, recreating itself as a ",
+    "answers": [
+      "single human bean",
+      "single human culture",
+      "single human being",
+      "single human family"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback:": "We should move towards being a single human family."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Mashriqu’l-Adhkár, translated means “______.",
+    "answers": [
+      "“The Place of prayer.",
+      "The Dawning Place of the Mention of God.",
+      "“The Center of the House of God.",
+      "The Place of God."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback:": "Mashriqu’l-Adhkár, translated means “The Dawning Place of the Mention of God."
+  },
+  {
+    "category": "Category: Bahá’í Basics",
+    "question": "Baha'is are working to contribute to the advancement of ___ civilization.",
+    "answers": [
+      "maternal and social",
+      "manditory and spiritual",
+      "  material and spiritual",
+      "marshmallow and sweet"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback:": "Material and spiritual advancement."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "In Islam, what is the Shahada?",
+    "answers": [
+      "Profession of Faith",
+      "Expression of Courtesy",
+      "Prayer and Fasting",
+      "The point of Adoration"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Profession of Faith 'There is no God but God and Muhammad is his prophet.'"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "How many times each day do Muslims pray?",
+    "answers": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Muslims are expected to pray five times a day."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of these is not one of the pillars of Islamic belief?",
+    "answers": [
+      "Giving Alms to those who are less fortunate.",
+      "Going on pilgrimage to Mecca",
+      "Daily Prayer ",
+      "Avoiding unclean foods like pork."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "While muslims do not eat pork, it is not one of the five pillars of Islam."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "How many times do the Muslims circumambulate the Kaabah?",
+    "answers": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Muslims circumambulate the Kaabah Seven Times, this is called Tawaf"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which Islamic principle does the Hajj demonstrate?",
+    "answers": [
+      "Submission to the Will of God",
+      "Equality and universal brotherhood",
+      "Obedience and Certitude",
+      "Importance of charity"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Muslims gather to meet one another and demonstrate to each other, and the world, that they are united. Unity in diversity and universal brotherhood."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What was the first article laid down by the Prophet Muhammad (PBUH) for the inhabitants of Medina?",
+    "answers": [
+      "All were considered members and citizens of Medina society regardless of religion, race, or ancestry",
+      "Only Muslims were given shelter in Medina",
+      "Other groups were asked to leave Medina",
+      "Muslims were given special powers"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "All were considered members and citizens of Medina society regardless of religion, race, or ancestry."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "According to Islam, which scripture was revealed to Prophet Moses?",
+    "answers": [
+      "Zabur (Psalms) was revealed to the Prophet Moses.",
+      "Torah (Old Testament) was revealed to the Prophet Moses.",
+      "The Book of Leviticus was revealed to the Prophet Moses",
+      "Muslims do not accapt that the Prophet Moses received any revelation."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Quran mentions that the Torah (Old Testament) was revealed to the Prophet Moses"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What does the Quran say about the use of force to spread the religion?",
+    "answers": [
+      "The Quran authorizes use of force for spreading the religion only if necessary. (Quran 2:256)",
+      "The Quran says '..Let there be no compulsion in religion..' (Quran 2:256)",
+      "There is no mention in the Quran about the spreading the religion."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "'Invite (all) to the way of thy Lord with wisdom and beautiful preaching; and argue with them in ways that are best and most gracious.' (Quran 16:125)"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What did the Prophet Muhammad mention was the greatest jihad?",
+    "answers": [
+      "The greatest jihad is to lie to others.",
+      "The greatest jihad is to defeat the forces of past religions.",
+      "The greatest jihad is to hold anger in your heart.",
+      "The greatest jihad is to struggle with the insidious suggestions of one’s own soul"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": " It is to struggle with the insidious suggestions of one’s own soul. Thus jihad refers to struggle of being a person of virtue and submission to God"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What did Prophet Muhammad mention about being merciful?",
+    "answers": [
+      "Be merciful to all beings on Earth.",
+      "Be merciful only to other Muslims.",
+      "Be merciful only to 'People of the Book'",
+      "Be merciful to all who are merciful to you."
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Muhammad said 'Be merciful on the earth and you will be shown mercy from the One who is above the Heavens'"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Whom did Prophet Muhammad describe as a strong person?",
+    "answers": [
+      "One who is both physically and mentally strong.",
+      "One who is strong of heart.",
+      "One who controls his anger.",
+      "One who has material wealth."
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "One who controls his anger."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What are the chapters of the Quran called?",
+    "answers": [
+      "Surah",
+      "Tablets",
+      "Odes",
+      "Ikhlas"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The chapters of the Quran are called Surah."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "According to the Quran, How should women be treated in Islam?",
+    "answers": [
+      "Women should be treated as servants of men.",
+      "Women are considered as bad omens and unclean.",
+      "Women have no freedom in Islam and must do as men say.",
+      "Women be treated with respect, honour and justice. It condemns oppression of any kind."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": " In Islam women, like men, are commanded to believe in God and to worship Him. Women are equal to men in terms of reward in the hereafter. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "In which country did Buddhism begin?",
+    "answers": [
+      "India",
+      "Malaysia",
+      "China",
+      "Japan"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Yes, Buddhism originated in India."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What is Dharma?",
+    "answers": [
+      "The teachings of the Buddha.",
+      "A Symbol of Buddhism",
+      "The name of Buddha.",
+      "A statue found in a Buddhist temple"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Dharma is the teachings of Buddha."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Where does the Eightfold Path lead?",
+    "answers": [
+      "To heaven.",
+      "To rebirth.",
+      "To enlightenment.",
+      "To Xanadu."
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The path leads to Enlightenment, or Nirvana."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "In Buddhism, what does the lotus flower represent?",
+    "answers": [
+      "Rebirth",
+      "Strength",
+      "Perfection",
+      "Purity"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "In Buddhism, the lotus flower represents purity."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "The goal of Buddhists is to be free from suffering, greed, hatred and delusion. What is the name given to this state?",
+    "answers": [
+      "Birvana",
+      "Nirvana",
+      "Cirvana",
+      "Tirvana"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Nirvana is understood as the end of attachment in life and therefore freedom from karma."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What is the belief that people's present actions will affect them in the future. ",
+    "answers": [
+      "Nirvana",
+      "Karma",
+      "Compassion",
+      "Onlat"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Karma is the belief that people's present actions will affect them in the future. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Buddhism teaches that we should ...",
+    "answers": [
+      "Let others control our lives.",
+      "Not be concerned about anything that happens",
+      "Develop a state of consciousness.",
+      "Practice 'Hakuna Matata'"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Consciousness might also be thought of as awareness.."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "A Sanskrit word meaning 'action' or 'fate', a lot of people equate it to 'what goes around comes around'. What is this term?",
+    "answers": [
+      "Sutra",
+      "Karma",
+      "Bothi",
+      "Sangri-La"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Karma has come to mean 'What goes around, comes around.'"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What was the real name of the founder of Buddhism?",
+    "answers": [
+      "Suryabaya",
+      "Ashoka",
+      "Siddhartha Gautama",
+      "Boromir Ashoka"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Siddhartha Gautama is the real name of the Buddha."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Siddhartha Gautama, the founder of Buddhism, was born ..... ",
+    "answers": [
+      "a prince",
+      "a priest",
+      "a sage",
+      "a seer"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Buddha was born a prince. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What language was the New Testament originally written in?",
+    "answers": [
+      "Greek",
+      "Hebrew",
+      "Latin",
+      "Aramaic"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The New Testament was originally written in Greek."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "When was the Christian New Testament written?",
+    "answers": [
+      "Between 50 - 120 AD",
+      "Between 100 - 150 AD",
+      "Between  20 - 150 AD",
+      "Between  120 - 240 AD"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "It was only about 20 years after Jesus' death that people began to write down the things they remembered"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What does 'Christ' mean",
+    "answers": [
+      "Holy God",
+      "The Pure",
+      "Son of God",
+      "The Annointed"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "'Christ' (from the Greek 'Christos' ) is the equivalent of 'Messiah' (from the Hebrew 'mashiach'), meaning 'anointed.' "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What religion did Jesus practice?",
+    "answers": [
+      "Judaism",
+      "Christianity",
+      "Islam",
+      "Zoroastrianism"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Jesus was born a Jew and was faithful to Judaism his whole life. He was known as a rabbi among the people of Palestine."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of these was at the heart of Jesus' teachings?",
+    "answers": [
+      "The restoration of the glory of the nation of Israel",
+      "The defeat of the Gods of the Roman Empire",
+      "The coming of the kingdom of God",
+      "The establishment of the Christian Church"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The Jews  expected their Messiah to be a great leader, but Jesus' kingdom is a spiritual kingdom rather than an earthly kingdom. It exists whereve."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What did Jesus say were the two great Commandments that should guide our lives?",
+    "answers": [
+      "You shall not murder and you shall not covet anything that belongs to your neighbor.",
+      "You shall not bow down before any idol, and you shall not covet anything that belongs to your neighbor.",
+      "Remember the Sabbath and keep it holy, and you shall have no other gods before me.",
+      "Love the Lord your God with all your heart and with all your soul and with all your mind, and love your neighbor as yourself."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Love the Lord your God with all your heart and with all your soul and with all your mind, and love your neighbor"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": " Which of these men encountered Jesus for the first time while on the road to Damascus?",
+    "answers": [
+      "Peter",
+      "Paul",
+      "Luke",
+      "John"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Paul didin a vision. He also took the title 'apostle', although he was not one of the original twelve."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of these men was a tax collector before becoming Jesus' disciple?",
+    "answers": [
+      "Matthew",
+      "Mark",
+      "John",
+      "Steve"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Matthew was originally a tax collector for the occupying Roman Empire."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of these was not an original Apostle of Christ?",
+    "answers": [
+      "Luke",
+      "John",
+      "Judas",
+      "Paul"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Paul was not one of the original twelve. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Jesus was baptized and began his ministry at about age 30. Who baptized Him?",
+    "answers": [
+      "John",
+      "Mary",
+      "Joseph",
+      "Joshua"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "John the Baptist baptised Jesus."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "According to Jesus, which of these is NOT not a characteristic of those who truly love God?",
+    "answers": [
+      "Mercy",
+      "Obediance",
+      "humility",
+      "Pride"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Evils of pride in the sense of being self-righteous, conceited or disdainful."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Fill in the blank. 'Come to Me, all who are weary and heavy-laden, and I will give you _______.'",
+    "answers": [
+      "Eternal Life",
+      "Peace",
+      "Rest",
+      "Friendship"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Come to Me, all who are weary and heavy-laden, and I will give you rest."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "According to Hinduism, who is the king of gods?",
+    "answers": [
+      "Shiva",
+      "Indra",
+      "Brama",
+      "Vishnu"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Indra is the god of thunder and uses Vajrayudha as his weapon"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Who is the Hindu goddess of knowledge?",
+    "answers": [
+      "Lakshmi",
+      "Parvathi",
+      "Saraswati",
+      "Shakuntala"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Saraswati is the goddess of knowledge, wife of Brahma and sits above a lotus. Lakshmi is the wife of Vishnu"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "In the Kurukshetra war, Krishna was the charioteer of which great warrior?",
+    "answers": [
+      "Bhima",
+      "Karna",
+      "Drona",
+      "Arjuna"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Krishna played a vital role in leading the Pandavas to victory and with his bravery he saved Arjuna from various dangers he faced in battle with Karna"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of these is a holy book of Hinduism?",
+    "answers": [
+      "The Upanishads",
+      "The Bhagavad Gita",
+      "The Shakuntala",
+      "The Arjuna Mantra"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Bhagavad Gita means 'Song of the Lords' and is Krishna's teachings to Arjuna"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "How is the Buddha regarded in Hinduism?",
+    "answers": [
+      "He was a disciple of Krishna.",
+      "He was a false prophet.",
+      "He never existed.",
+      "He was one of the avatars of Vishnu"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Gautama Buddha, the founder of Buddhism, is considered to be one of the many incarnations of Lord Vishnu, as stated in Bhagavata Purana"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "The Trimurti is made up of Brahma, Vishnu and Shiva. What does Trimurti  mean?",
+    "answers": [
+      "Three Gods",
+      "Three Forms",
+      "Three Crowns",
+      "The Three Avatars"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Trimurti is used to describe the three forms of the same Supreme Soul. The creator is called Brahma, the protector Vishnu and the destroyer Shiva"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of the Hindu castes is strictly vegetarian?",
+    "answers": [
+      "The Priest caste",
+      "The Artisan caste",
+      "The Warrior caste",
+      "The Farmer caste"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Brahmin caste follows a very pure way of life."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What is the Sacred River of Hinduism?",
+    "answers": [
+      "The Ganga",
+      "The Indus",
+      "The Bramaputra",
+      "The Rio Grande"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Ganga or Ganges, as well as being purifying and the most sacred of rivers is also the wife of Shantanu and the mother of Bhishma"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "The purpose of life is seen to be gaining liberation from the circle of reincarnation by resolving Karma. What name is given to this achievement?",
+    "answers": [
+      "Sutra",
+      "Veda",
+      "Moksha",
+      "Banjali"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Moksha, or the eternal salvation, is what everybody is to strive for."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "This is one of the most famous, and the most read, epics of all time. It was written by Valmiki, who is regarded as a Maharishi.",
+    "answers": [
+      "Ramayana",
+      "Hinduyama",
+      "Gangayama",
+      "Hava Mein ud Gaya"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Ramayana is an ancient Indian epic poem which narrates the struggle of the divine prince Rama to rescue his wife Sita from the demon king Ravana"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What is the literal translation of the Sanskrit term 'Advaita'?",
+    "answers": [
+      "Not One",
+      "Not Two",
+      "One Consciousness",
+      "Two Minds"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Advaita means 'not two' rather than 'all one' or similar, as saying all is one is seen as too simplistic. Saying 'not two' leads to a state more or less beyond words"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which festival is also known as the festival of lights?",
+    "answers": [
+      "Diwali",
+      "Mahashivaratri",
+      "Holi",
+      "Ram Navami"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": " Diwali is an ancient Hindu festival. The festival spiritually signifies the victory of light over darkness, knowledge over ignorance, good over evil, and hope over despair.  "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What is the name of the person that leads the service?",
+    "answers": [
+      "Vishali",
+      "Ravioli",
+      "Rabbi",
+      "Leader"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Services are led by a Rabbi."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "The traditional skull-cap worn by Jewish men is called a what?",
+    "answers": [
+      "Yarmulka",
+      "Mitre",
+      "Zuchetto",
+      "Malicostra"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": " A yarmulke or kippah is usually made of cloth, and is worn by Jewish men. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What is the Shahadah?",
+    "answers": [
+      "The first Surah of the Koran",
+      "The name of the King in Hinduism",
+      "The statement of faith in Islam",
+      "The king of Babalon"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": " The shahadah is the formal statement of faith in Islam. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of these are Mormons allowed to drink?",
+    "answers": [
+      "Tea",
+      "Coffee",
+      "Whiskey",
+      "Dr. Pepper"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Dr.Pepper is the only type of drink the Mormons are allowed. Pepsi and coke are OK too of course. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What does 'Upanishads' mean?",
+    "answers": [
+      "Sitting by a guru.",
+      "Living a pure life.",
+      "Doing no harm",
+      "Eating no pepperoni"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Upanishads means sitting by a guru. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Which of these is not one of the Jewish books?",
+    "answers": [
+      "Talmud",
+      "Mishna",
+      "Halud",
+      "Torah"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": " The halud is not a Holy book. I just made it up!"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "Muslims believe God told Abraham to build a sanctuary where?",
+    "answers": [
+      "Jeruselum",
+      "Medina",
+      "Paris",
+      "Zamzam"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Zamzam is a well located within the Masjid al-Haram in Mecca. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What was the occupation of Muhammad growing up?",
+    "answers": [
+      "Camel driver",
+      "Priest",
+      "Keeper of the Holy Keys",
+      "Trader"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Muhammad was a camel driver when he was young. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What is the name of the 40x40 foot cubic structure in Mecca near Zamzam. ",
+    "answers": [
+      "Kubac",
+      "Kabah",
+      "Koban",
+      "Zamzam"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Kabah is the cubic building located within the Masjid al-Haram in Mecca. "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "How many sacrements are there in the Catholic church?",
+    "answers": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Seven!Baptism, Confirmation, Communion, Reconciliation, Anointing of the sick, Holy orders, Holy matrimony "
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "What happened in 312 AD",
+    "answers": [
+      "Constantine became Christian",
+      "Mohammed was born",
+      "Rome burned",
+      "Julius Caesar became a Christian"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Constantine became Christian and Christianity grew quickly."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "The Jewish Festival of Passover, commemorates ...",
+    "answers": [
+      "The Jewish New Year",
+      "The Jewish equivalent of Christmas",
+      "The arrival of Spring",
+      "The Israelite Exodus from Egypt around 1450 BC"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Passover, or Pesach, commemorates the liberation of the ancient Hebrews from slavery in Egypt over 3,300 years ago."
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "In Judaism, giving to charity is . . .",
+    "answers": [
+      "done at specific times of the year in tandem with Jewish festivals",
+      "left to the individual to decide as appropriate",
+      "only given to those with a direct need",
+      "a requirement"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "'tzedakah', signifying charity, literally means 'righteous behaviour' is a term implying generosity beyond that which may be expected - but is actually a requirement"
+  },
+  {
+    "category": "Category: Global Faith I",
+    "question": "In Judaism, giving to charity is . . .",
+    "answers": [
+      "done at specific times of the year in tandem with Jewish festivals",
+      "left to the individual to decide as appropriate",
+      "only given to those with a direct need",
+      "a requirement"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "'tzedakah', signifying charity, literally means 'righteous behaviour' is a term implying generosity beyond that which may be expected - but is actually a requirement"
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Baha'u'llah was born on the 12th of November...",
     "answers": [
-        "1809",
-        "1817",
-        "1819",
-        "1821"
+      "1809",
+      "1817",
+      "1819",
+      "1821"
     ],
     "correctAnswerIndex": 1,
     "feedback": "Baha'u'llah was born on the 12th of November, 1817"
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Baha'u'llah was born in the Persian city of...",
     "answers": [
-        "Teheran",
-        "Tabriz",
-        "Isfahan",
-        "Shiraz"
+      "Teheran",
+      "Tabriz",
+      "Isfahan",
+      "Shiraz"
     ],
     "correctAnswerIndex": 0,
     "feedback": "Baha'u'llah was born in the Persian city of Teheran."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Baha'u'llah's name at birth was...",
     "answers": [
-        "Siyyid Mírza Ali-Husayn",
-        "Mirza Ḥusayn-Ali Núri",
-        "Siyyid Mírza-Ali-Muḥammad",
-        "Mirza Ahmad-Ali Akbari"
+      "Siyyid Mírza Ali-Husayn",
+      "Mirza Ḥusayn-Ali Núri",
+      "Siyyid Mírza-Ali-Muḥammad",
+      "Mirza Ahmad-Ali Akbari"
     ],
     "correctAnswerIndex": 1,
     "feedback": "Baha'u'llah's name at birth was Mirza Ḥusayn-Ali Núri"
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Baha'u'llah's father's name was...",
     "answers": [
-        "Mirzá Buzurg",
-        "Mirzá Ali-Bahi",
-        "Mirzá Buzurg'i'Baghdadi",
-        "Mirzá Mohammad"
+      "Mirzá Buzurg",
+      "Mirzá Ali-Bahi",
+      "Mirzá Buzurg'i'Baghdadi",
+      "Mirzá Mohammad"
     ],
     "correctAnswerIndex": 0,
     "feedback": "Baha'u'llah's father's name was Mirzá Buzurg."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Baha'u'llah's father, Mirzá Buzurg, was a...",
     "answers": [
-        "merchant",
-        "mulla",
-        "general",
-        "Governor"
+      "merchant",
+      "mulla",
+      "general",
+      "Governor"
     ],
     "correctAnswerIndex": 3,
     "feedback": "Baha'u'llah's father, Mirzá Buzurg, was a governor."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "During the time Bahá`u`lláh proclaimed His mission, He was a follower of....",
     "answers": [
-        "Mohammad",
-        "Zoroaster",
-        "Moses",
-        "The Báb"
+      "Mohammad",
+      "Zoroaster",
+      "Moses",
+      "The Báb"
     ],
     "correctAnswerIndex": 3,
     "feedback": "During the time Bahá`u`lláh proclaimed His mission, He was a follower of the Bab"
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "How long did Baha'u'llah spend in the mountains of Azerbajan?",
     "answers": [
-        "40 days",
-        "One month",
-        "Two years",
-        "He did not spend time there."
+      "40 days",
+      "One month",
+      "Two years",
+      "He did not spend time there."
     ],
     "correctAnswerIndex": 3,
     "feedback": "Baha'u'llah did not spend time in the mountains of Azerbajan."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "How long did Baha'u'llah spend in the mountains of Kurdistan?",
     "answers": [
-        "One month",
-        "One year",
-        "Two years",
-        "Three years"
+      "One month",
+      "One year",
+      "Two years",
+      "Three years"
     ],
     "correctAnswerIndex": 2,
     "feedback": "Baha'u'llah spent two years in the mountains of Kurdistan"
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "While in the mountains of Kurdistan Baha'u'llah wrote this book.",
     "answers": [
-        "The Four Valleys.",
-        "The Kitab i Iqan",
-        "The Epistle to the Son of the Wolf",
-        "The Most Holy Book"
+      "The Four Valleys.",
+      "The Kitab i Iqan",
+      "The Epistle to the Son of the Wolf",
+      "The Most Holy Book"
     ],
     "correctAnswerIndex": 0,
     "feedback": "Baha'u'llah wrote The Four Valleys while in Kurdistan."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "How old was the Báb when He declare His mission?",
     "answers": [
-        "24",
-        "27",
-        "29",
-        "31`"
+      "24",
+      "27",
+      "29",
+      "31`"
     ],
     "correctAnswerIndex": 1,
     "feedback": "The Bab was 24 years old when he declared his mission."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Which disciple accompanied the Báb on His pilgrimage to Mecca?",
     "answers": [
-        "Mulla Husayn",
-        "Tahireh",
-        "Quddus",
-        "Nabil"
+      "Mulla Husayn",
+      "Tahireh",
+      "Quddus",
+      "Nabil"
     ],
     "correctAnswerIndex": 2,
     "feedback": "Quddus accompanied the Bab on his pilgrimage to Mecca."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "In what town was the Báb executed?",
     "answers": [
-        "Shiraz",
-        "Teheran",
-        "Shiraz",
-        "Tabriz"
+      "Shiraz",
+      "Teheran",
+      "Shiraz",
+      "Tabriz"
     ],
     "correctAnswerIndex": 3,
     "feedback": "The Bab was executed in Tabriz."
-    
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "In 1850, who ordered the execution of the Báb in Tabriz",
     "answers": [
-        "The Shah",
-        "the Grand Vizier",
-        "The Supreme Court",
-        "The Ayatolla Mulla Abdulla"
+      "The Shah",
+      "the Grand Vizier",
+      "The Supreme Court",
+      "The Ayatolla Mulla Abdulla"
     ],
     "correctAnswerIndex": 1,
     "feedback": "The Grand visir of Persia."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "What happened when the soldiers attempted to execute the Bab?",
     "answers": [
-        "They found the Bab had dissapeared.",
-        "The Bab had caused the rifles to explode.",
-        "God caused a huge dust cloud to fill the city.",
-        "Lightning and a tornado scattered the soldiers."
+      "They found the Bab had dissapeared.",
+      "The Bab had caused the rifles to explode.",
+      "God caused a huge dust cloud to fill the city.",
+      "Lightning and a tornado scattered the soldiers."
     ],
     "correctAnswerIndex": 0,
     "feedback": "The Bab had dissapeared. They found him back in his cell talking to one of his followers."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "How many soldiers fired at the Bab in Tabriz?",
     "answers": [
-        "250",
-        "500",
-        "750",
-        "1000"
+      "250",
+      "500",
+      "750",
+      "1000"
     ],
     "correctAnswerIndex": 2,
     "feedback": "The regiment of soldiers numbered 750."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "What colour turban did the Báb wear to signify that He was a descendant of the Prophet Muhammad?",
     "answers": [
-        "green",
-        "red",
-        "white",
-        "turquoise"
+      "green",
+      "red",
+      "white",
+      "turquoise"
     ],
     "correctAnswerIndex": 0,
     "feedback": "Descendants of Muhammad were allowed to wear a green turban."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "The Bábís were attacked by government troops at Tabarsi. What kind of place was this?",
     "answers": [
-        "Fortress",
-        "Castle",
-        "A Mosque",
-        "An Islamic shrine"
+      "Fortress",
+      "Castle",
+      "A Mosque",
+      "An Islamic shrine"
     ],
     "correctAnswerIndex": 3,
     "feedback": "Tabarsi was an Islamic shrine."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Who was both a poet in Persia and  also a Letter of the Living?",
     "answers": [
-        "Nabil",
-        "Shakh Ahmad",
-        "Mulla Husayn",
-        "Tahireh"
+      "Nabil",
+      "Shakh Ahmad",
+      "Mulla Husayn",
+      "Tahireh"
     ],
     "correctAnswerIndex": 3,
     "feedback": "Tahireh was both an accomplished poetess and a Letter of the Living."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Where did the Báb reveal most of His Writings?",
     "answers": [
-        "Imprisoned in Maku and Chehriq",
-        "On pilgrimage to Mecca and Medina",
-        "In Shiraz",
-        "On his trip in Iraq"
+      "Imprisoned in Maku and Chehriq",
+      "On pilgrimage to Mecca and Medina",
+      "In Shiraz",
+      "On his trip in Iraq"
     ],
     "correctAnswerIndex": 0,
     "feedback": "The Bab revealed most of his writings in the prison of Maku and Chiriq."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "In which European city did ‘Abdu’l-Bahá give His first public talk in the West in 1911?",
     "answers": [
-        "London",
-        "Paris",
-        "Rome",
-        "Constantinople"
+      "London",
+      "Paris",
+      "Rome",
+      "Constantinople"
     ],
     "correctAnswerIndex": 0,
     "feedback": "He gave His first public talk at the City Temple in London on 11 September 1911."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "For approximately how many years was Abdu’l-Bahá a resident or prisoner in or near Akka?",
     "answers": [
-        "20",
-        "30",
-        "40",
-        "50"
+      "20",
+      "30",
+      "40",
+      "50"
     ],
     "correctAnswerIndex": 2,
     "feedback": "His imprisonment in Akka started in 1868 and he remained in the area until 1909. "
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "When did ‘Abbás Effendi choose the title ‘Abdu’l-Bahá for Himself?",
     "answers": [
-        "When he arrived in Akka",
-        "After the passing of Bahá’u’lláh",
-        "When Baha'u'llah declared His mission",
-        "When he was 21 years old."
+      "When he arrived in Akka",
+      "After the passing of Bahá’u’lláh",
+      "When Baha'u'llah declared His mission",
+      "When he was 21 years old."
     ],
     "correctAnswerIndex": 1,
     "feedback": "He was appointed Bahá’u’lláh’s successor and he chose this distinct name which means ‘Servant of Baha’."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "How long did ‘Abdu’l-Bahá stay in the US and Canada in 1912?",
     "answers": [
-        "one month",
-        "three months",
-        "six months",
-        "eight months"
+      "one month",
+      "three months",
+      "six months",
+      "eight months"
     ],
     "correctAnswerIndex": 3,
     "feedback": "He spent 239 days in the US and Canada, where he gave over 500 talks to at least 93,000 people."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Who was Abdu'l-Baha's sister?",
     "answers": [
-        "Ruhiyyih Knanum",
-        "Bahiyyih Khanum",
-        "Bushra Khanum",
-        "Boutheina"
+      "Ruhiyyih Knanum",
+      "Bahiyyih Khanum",
+      "Bushra Khanum",
+      "Boutheina"
     ],
     "correctAnswerIndex": 1,
     "feedback": "Abdu'l-Baha's sister was named Bahiyyih Khanum."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Which book did Bahá’u’lláh reveal in Baghdad which is considered the ‘inner essence’ of what had been revealed by the prophets of the past?",
     "answers": [
-        "The Four Valleys",
-        "The Book of Certitude",
-        "The Book of Wisdom",
-        "The Hidden Words"
+      "The Four Valleys",
+      "The Book of Certitude",
+      "The Book of Wisdom",
+      "The Hidden Words"
     ],
     "correctAnswerIndex": 3,
     "feedback": "Baha'u'llah wrote the Hidden Words while in Baghdad."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "While in the Siyáh Chál, Bahá’u’lláh witnessed a vision of . . ",
     "answers": [
-        "A Maiden",
-        "A burning bush",
-        "The angel Gabriel",
-        "The prophet Muhammad"
+      "A Maiden",
+      "A burning bush",
+      "The angel Gabriel",
+      "The prophet Muhammad"
     ],
     "correctAnswerIndex": 0,
     "feedback": "The Holy Spirit appeared to him in the form of a Maiden of Heaven."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Which of the following did not receive a letter from Bahá’u’lláh?",
     "answers": [
-        "Queen Victoria",
-        "King Emmanuel",
-        "Tsar Alexander",
-        "Pope Pius IX"
+      "Queen Victoria",
+      "King Emmanuel",
+      "Tsar Alexander",
+      "Pope Pius IX"
     ],
     "correctAnswerIndex": 1,
     "feedback": "King Emmanual of Italy did not recieve a letter. Poor Victor! "
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Shoghi Effendi wrote only one book in English. Which book was it?",
     "answers": [
-        "God Loves Laughter",
-        "God Passes By",
-        "God is My Co-Pilot",
-        "God and Baha'u'llah"
+      "God Loves Laughter",
+      "God Passes By",
+      "God is My Co-Pilot",
+      "God and Baha'u'llah"
     ],
     "correctAnswerIndex": 1,
     "feedback": " Shoghi Effendi wrote God Passes By in 1944. "
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Shoghi Effendi married Mary Maxwell in 1937. In what city did she grow up?",
     "answers": [
-        "Boston",
-        "New York",
-        "Montreal",
-        "London"
+      "Boston",
+      "New York",
+      "Montreal",
+      "London"
     ],
     "correctAnswerIndex": 2,
     "feedback": "May Maxwell grew up in Montreal."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Shoghi Effendi became the Guardian when he was how old?",
     "answers": [
-        "21",
-        "24",
-        "27",
-        "29"
+      "21",
+      "24",
+      "27",
+      "29"
     ],
     "correctAnswerIndex": 1,
     "feedback": "He was just 24 when his grandfather passed away and named him Guardian."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "When was the first Universal House of Justice elected?",
     "answers": [
-        "1947",
-        "1957",
-        "1963",
-        "1969"
+      "1947",
+      "1957",
+      "1963",
+      "1969"
     ],
     "correctAnswerIndex": 2,
     "feedback": "The first Universal House of Justice was elected in 1963."
-}, {
+  },
+  {
     "category": "Category: Baha'i History Part I",
     "question": "Where was the first election of the Universal House of Justice held?",
     "answers": [
-        "London",
-        "Wilmette",
-        "Akka",
-        "Haifa"
+      "London",
+      "Wilmette",
+      "Akka",
+      "Haifa"
     ],
     "correctAnswerIndex": 3,
     "feedback": "The first election of the Universal House of Justice was held in Haifa."
-}
+  }
 ]
