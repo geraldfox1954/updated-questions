@@ -930,6 +930,10 @@
 		"feedback:": "Material and spiritual advancement."
 	},
 
+ 
+ 
+ 
+ 
 	{
 		"category": "Category: Global Faith I",
 		"question": "In Islam, what is the Shahada?",
@@ -1492,5 +1496,371 @@
 		],
 		"correctAnswerIndex": 3,
 		"feedback": "'tzedakah', signifying charity, literally means 'righteous behaviour' is a term implying generosity beyond that which may be expected - but is actually a requirement"
-	}
+	},
+ {
+		"category": "Category: Global Faith I",
+		"question": "In Judaism, giving to charity is . . .",
+		"answers": [
+			"done at specific times of the year in tandem with Jewish festivals",
+			"left to the individual to decide as appropriate",
+			"only given to those with a direct need",
+			"a requirement"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "'tzedakah', signifying charity, literally means 'righteous behaviour' is a term implying generosity beyond that which may be expected - but is actually a requirement"
+	},
+ {
+    "category": "Category: Baha'i History Part I",
+    "question": "Baha'u'llah was born on the 12th of November...",
+    "answers": [
+        "1809",
+        "1817",
+        "1819",
+        "1821"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Baha'u'llah was born on the 12th of November, 1817"
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Baha'u'llah was born in the Persian city of...",
+    "answers": [
+        "Teheran",
+        "Tabriz",
+        "Isfahan",
+        "Shiraz"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Baha'u'llah was born in the Persian city of Teheran."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Baha'u'llah's name at birth was...",
+    "answers": [
+        "Siyyid Mírza Ali-Husayn",
+        "Mirza Ḥusayn-Ali Núri",
+        "Siyyid Mírza-Ali-Muḥammad",
+        "Mirza Ahmad-Ali Akbari"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Baha'u'llah's name at birth was Mirza Ḥusayn-Ali Núri"
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Baha'u'llah's father's name was...",
+    "answers": [
+        "Mirzá Buzurg",
+        "Mirzá Ali-Bahi",
+        "Mirzá Buzurg'i'Baghdadi",
+        "Mirzá Mohammad"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Baha'u'llah's father's name was Mirzá Buzurg."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Baha'u'llah's father, Mirzá Buzurg, was a...",
+    "answers": [
+        "merchant",
+        "mulla",
+        "general",
+        "Governor"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Baha'u'llah's father, Mirzá Buzurg, was a governor."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "During the time Bahá`u`lláh proclaimed His mission, He was a follower of....",
+    "answers": [
+        "Mohammad",
+        "Zoroaster",
+        "Moses",
+        "The Báb"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "During the time Bahá`u`lláh proclaimed His mission, He was a follower of the Bab"
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "How long did Baha'u'llah spend in the mountains of Azerbajan?",
+    "answers": [
+        "40 days",
+        "One month",
+        "Two years",
+        "He did not spend time there."
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Baha'u'llah did not spend time in the mountains of Azerbajan."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "How long did Baha'u'llah spend in the mountains of Kurdistan?",
+    "answers": [
+        "One month",
+        "One year",
+        "Two years",
+        "Three years"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Baha'u'llah spent two years in the mountains of Kurdistan"
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "While in the mountains of Kurdistan Baha'u'llah wrote this book.",
+    "answers": [
+        "The Four Valleys.",
+        "The Kitab i Iqan",
+        "The Epistle to the Son of the Wolf",
+        "The Most Holy Book"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Baha'u'llah wrote The Four Valleys while in Kurdistan."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "How old was the Báb when He declare His mission?",
+    "answers": [
+        "24",
+        "27",
+        "29",
+        "31`"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Bab was 24 years old when he declared his mission."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Which disciple accompanied the Báb on His pilgrimage to Mecca?",
+    "answers": [
+        "Mulla Husayn",
+        "Tahireh",
+        "Quddus",
+        "Nabil"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "Quddus accompanied the Bab on his pilgrimage to Mecca."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "In what town was the Báb executed?",
+    "answers": [
+        "Shiraz",
+        "Teheran",
+        "Shiraz",
+        "Tabriz"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "The Bab was executed in Tabriz."
+    
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "In 1850, who ordered the execution of the Báb in Tabriz",
+    "answers": [
+        "The Shah",
+        "the Grand Vizier",
+        "The Supreme Court",
+        "The Ayatolla Mulla Abdulla"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "The Grand visir of Persia."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "What happened when the soldiers attempted to execute the Bab?",
+    "answers": [
+        "They found the Bab had dissapeared.",
+        "The Bab had caused the rifles to explode.",
+        "God caused a huge dust cloud to fill the city.",
+        "Lightning and a tornado scattered the soldiers."
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Bab had dissapeared. They found him back in his cell talking to one of his followers."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "How many soldiers fired at the Bab in Tabriz?",
+    "answers": [
+        "250",
+        "500",
+        "750",
+        "1000"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The regiment of soldiers numbered 750."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "What colour turban did the Báb wear to signify that He was a descendant of the Prophet Muhammad?",
+    "answers": [
+        "green",
+        "red",
+        "white",
+        "turquoise"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "Descendants of Muhammad were allowed to wear a green turban."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "The Bábís were attacked by government troops at Tabarsi. What kind of place was this?",
+    "answers": [
+        "Fortress",
+        "Castle",
+        "A Mosque",
+        "An Islamic shrine"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Tabarsi was an Islamic shrine."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Who was both a poet in Persia and  also a Letter of the Living?",
+    "answers": [
+        "Nabil",
+        "Shakh Ahmad",
+        "Mulla Husayn",
+        "Tahireh"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Tahireh was both an accomplished poetess and a Letter of the Living."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Where did the Báb reveal most of His Writings?",
+    "answers": [
+        "Imprisoned in Maku and Chehriq",
+        "On pilgrimage to Mecca and Medina",
+        "In Shiraz",
+        "On his trip in Iraq"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Bab revealed most of his writings in the prison of Maku and Chiriq."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "In which European city did ‘Abdu’l-Bahá give His first public talk in the West in 1911?",
+    "answers": [
+        "London",
+        "Paris",
+        "Rome",
+        "Constantinople"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "He gave His first public talk at the City Temple in London on 11 September 1911."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "For approximately how many years was Abdu’l-Bahá a resident or prisoner in or near Akka?",
+    "answers": [
+        "20",
+        "30",
+        "40",
+        "50"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "His imprisonment in Akka started in 1868 and he remained in the area until 1909. "
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "When did ‘Abbás Effendi choose the title ‘Abdu’l-Bahá for Himself?",
+    "answers": [
+        "When he arrived in Akka",
+        "After the passing of Bahá’u’lláh",
+        "When Baha'u'llah declared His mission",
+        "When he was 21 years old."
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "He was appointed Bahá’u’lláh’s successor and he chose this distinct name which means ‘Servant of Baha’."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "How long did ‘Abdu’l-Bahá stay in the US and Canada in 1912?",
+    "answers": [
+        "one month",
+        "three months",
+        "six months",
+        "eight months"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "He spent 239 days in the US and Canada, where he gave over 500 talks to at least 93,000 people."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Who was Abdu'l-Baha's sister?",
+    "answers": [
+        "Ruhiyyih Knanum",
+        "Bahiyyih Khanum",
+        "Bushra Khanum",
+        "Boutheina"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "Abdu'l-Baha's sister was named Bahiyyih Khanum."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Which book did Bahá’u’lláh reveal in Baghdad which is considered the ‘inner essence’ of what had been revealed by the prophets of the past?",
+    "answers": [
+        "The Four Valleys",
+        "The Book of Certitude",
+        "The Book of Wisdom",
+        "The Hidden Words"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "Baha'u'llah wrote the Hidden Words while in Baghdad."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "While in the Siyáh Chál, Bahá’u’lláh witnessed a vision of . . ",
+    "answers": [
+        "A Maiden",
+        "A burning bush",
+        "The angel Gabriel",
+        "The prophet Muhammad"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The Holy Spirit appeared to him in the form of a Maiden of Heaven."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Which of the following did not receive a letter from Bahá’u’lláh?",
+    "answers": [
+        "Queen Victoria",
+        "King Emmanuel",
+        "Tsar Alexander",
+        "Pope Pius IX"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "King Emmanual of Italy did not recieve a letter. Poor Victor! "
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Shoghi Effendi wrote only one book in English. Which book was it?",
+    "answers": [
+        "God Loves Laughter",
+        "God Passes By",
+        "God is My Co-Pilot",
+        "God and Baha'u'llah"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": " Shoghi Effendi wrote God Passes By in 1944. "
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Shoghi Effendi married Mary Maxwell in 1937. In what city did she grow up?",
+    "answers": [
+        "Boston",
+        "New York",
+        "Montreal",
+        "London"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "May Maxwell grew up in Montreal."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Shoghi Effendi became the Guardian when he was how old?",
+    "answers": [
+        "21",
+        "24",
+        "27",
+        "29"
+    ],
+    "correctAnswerIndex": 1,
+    "feedback": "He was just 24 when his grandfather passed away and named him Guardian."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "When was the first Universal House of Justice elected?",
+    "answers": [
+        "1947",
+        "1957",
+        "1963",
+        "1969"
+    ],
+    "correctAnswerIndex": 2,
+    "feedback": "The first Universal House of Justice was elected in 1963."
+}, {
+    "category": "Category: Baha'i History Part I",
+    "question": "Where was the first election of the Universal House of Justice held?",
+    "answers": [
+        "London",
+        "Wilmette",
+        "Akka",
+        "Haifa"
+    ],
+    "correctAnswerIndex": 3,
+    "feedback": "The first election of the Universal House of Justice was held in Haifa."
+}
 ]
