@@ -2252,5 +2252,362 @@
     ],
     "correctAnswerIndex": 3,
     "feedback": "The first election of the Universal House of Justice was held in Haifa."
-  }
+  },
+  
+    {
+    "category": "Ruhi Books I & II",
+    "question": "The title of Ruhi Book one is:",
+    "answers": [
+        "Reflections on the Life of the Spirit.",
+        "The Twin Manifestations.",
+        "Prayer and Meditation.",
+        "Anna's Presentation"
+    ],
+    "correctAnswerIndex": 0,
+    "feedback": "The title of Ruhi Book One is Reflections on the Life of the Spirit."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "According to a quotation in Ruhi Book One, what is the foundation of all human virtues?",
+        "answers": [
+            "Kindness",
+            "Truthfulness",
+            "Compassion",
+            "Fidelity"
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "Truthfulness is the foundation of all human virtues. So True!"
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "According to the quotation in Ruhi Book One, our eyes should be ...",
+        "answers": [
+            "sharp",
+            "wide open",
+            "chaste",
+            "beady"
+        ],
+        "correctAnswerIndex": 2,
+        "feedback": "Let your eye be chaste, your hand faithful, your tongue truthful and your heart enlightened."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "According to a quotation in Ruhi Book One, A kindly tongue is ....",
+        "answers": [
+            "a diadem of the spirit of unity",
+            "the ornament of the soul.",
+            "a gem of the spirit.",
+            "the lodestone of the hearts of men."
+        ],
+        "correctAnswerIndex": 3,
+        "feedback": "A kindly tongue is the lodestone of the hearts of men. Hey! You just earned a lodestone!"
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "According to a quotation in Ruhi Book One, Every aggressor deprives himself of this.",
+        "answers": [
+            "God’s grace",
+            "God's love",
+            "God's power",
+            "the keys to the kingdom."
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Every aggressor deprives himself of God’s grace. Don't be an agressor!"
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "What should we do when a thought of war comes?",
+        "answers": [
+            "annhialate it with the joy of  ",
+            "oppose it by a stronger thought of peace.",
+            "cherish it with harmony",
+            "destroy it with the light of justice"
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "When a thought of war comes, oppose it by a stronger thought of peace."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "The soul will continue to progress until ... ",
+        "answers": [
+            "it becomes a gem of brilliant color.",
+            "it changes this nether world into a paradise.",
+            "it attaineth the presence of God",
+            "it runneth out of gas."
+        ],
+        "correctAnswerIndex": 2,
+        "feedback": "The soul, after its separation from the body, will continue to progress until it attaineth the presence of God."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "The purpose of God in creating man is to ... ",
+        "answers": [
+            "assist him in his worldly quests",
+            "expunge from him, all evil desires.",
+            "make of him a sign of justice and harmony.",
+            "enable him to know his Creator and to attain His Presence. "
+        ],
+        "correctAnswerIndex": 3,
+        "feedback": "The purpose of God in creating man hath been, and will ever be, to enable him to know his Creator and to attain His Presence. "
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Baha’u’llah says: Man is the supreme . . .",
+        "answers": [
+            "Talisman",
+            "Ornament",
+            "Treasure",
+            "lodestone."
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Man is the supreme Talisman.'  Nice to know! Isn't it?"
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "The Great Being saith: Regard man as a mine rich in gems of inestimable value. What will cause it to reveal it's treasures?",
+        "answers": [
+            "money",
+            "education",
+            "genetics",
+            "kindness"
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "Education can, alone, cause it to reveal its treasures."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Ruhi Book I focusses on Prayer and ...",
+        "answers": [
+            "Teaching",
+            "Living a happy life",
+            "Life and Death",
+            "The Manefestations og God"
+        ],
+        "correctAnswerIndex": 2,
+        "feedback": "Ruhi Book I focusses on Prayer and Life & Death."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "According to Book I, what should we do before we are summoned to a reckoning",
+        "answers": [
+            "Say a prayer",
+            "Be a sign of justice",
+            "Think happy thoughts",
+            "Bring thyself to account"
+        ],
+        "correctAnswerIndex": 3,
+        "feedback": "Bring thyself to account each day ere thou art summoned to a reckoning "
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": " The soul is a _____ of God. ",
+        "answers": [
+            "a sign",
+            "a manefestation",
+            "copy",
+            "shining"
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Know, verily, that the soul is a sign of God"
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "In a quote in Ruhi Book I, it is quoted that the holy souls are promised this.",
+        "answers": [
+            "the gift of introspection.",
+            "the gift of intercession.",
+            "the gift of peace.",
+            "the gift of true poverty and absolute nothingness."
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "The gift of intercession. But only if we are holy souls."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "The title of Ruhi Book II.",
+        "answers": [
+            "Arising to Teach",
+            "Arising to Love",
+            "Arising to Serve",
+            "Arriving Home"
+        ],
+        "correctAnswerIndex": 2,
+        "feedback": "The title of Ruhi Book II is Arising to Serve."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "The first section of Book II is called . . ",
+        "answers": [
+            "The Joy of Teaching.",
+            "The Joy of Serving.",
+            "The Joy of Prayer",
+            "The Joy of Gardening."
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "The first section of Book II is called The Joy of Teaching."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Bahá'u'lláh says that 'It is te duty of every seeker to bestir himself.' What does bestir mean?",
+        "answers": [
+            "to teach",
+            "to travel on vacation",
+            "to make soup",
+            "to rouse to action"
+        ],
+        "correctAnswerIndex": 3,
+        "feedback": "Bestir means to rouse or rise to action.   "
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Complete this quote from ahá'u'lláh. Detatchment is as the sun; in whatsoever heart it doth shine . . . ",
+        "answers": [
+            "it quencheth the darkness of error.",
+            "it quencheth the fire of covetousness and self.",
+            "it quencheth the light of the soul.",
+            "it quencheth the thirst of the needy."
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "Detatchment is as the sun; in whatsoever heart it doth shine, it quencheth the fire of covetousness and self."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Labor is needed, if we are to seek Him; ______ is needed, if we are to drink of the honey of reunion with Him.",
+        "answers": [
+            "arbor",
+            "ardor",
+            "armies",
+            "Art"
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "Labor is needed, if we are to seek Him; ardor is needed, if we are to drink of the honey of reunion with Him."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Until a being setteth his foot in the plane of sacrifice, he is bereft of every ________",
+        "answers": [
+            "favour and grace.",
+            "flavor and glace.",
+            "fervor and goal.",
+            "fever and grief."
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Until a being setteth his foot in the plane of sacrifice, he is bereft of every favour and grace."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Be ______ as the wind, while carrying the Message of Him Who hath caused the Dawn of Divine Guidance to break. ",
+        "answers": [
+            "undetained",
+            "uncontrolled ",
+            "unrestrained",
+            "unrefrained"
+        ],
+        "correctAnswerIndex": 2,
+        "feedback": "Be unrestrained as the wind, while carrying the Message of Him Who hath caused the Dawn of Divine Guidance to break."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "In a prayer Abdu'l-Baha councils us to . . Illumine our hearts, grant us . . .",
+        "answers": [
+            "discerning hearts and attentive minds.",
+            "discerning eyes and attentive ears.",
+            "discerning souls and attractive hearts.",
+            "discerning minds and attractive ears."
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "Illumine our hearts, grant us discerning eyes and attentive ears."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Bahá'u'lláh writes 'Nothing whatever can, in this Day, inflict a greater harm upon this Cause than ... ",
+        "answers": [
+            "dissension and strife, contention, estrangement and apathy...",
+            "division and strife, contention, estrangement and apathy...",
+            "dissemination and strife, contention, estrangement and apathy.",
+            "dissolution and strife, contention, estrangement and apathy."
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Nothing whatever can, in this Day, inflict a greater harm upon this Cause than dissension and strife, contention, estrangement and apathy, among the loved ones of God."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "What does backbiting quencheth the light of? ",
+        "answers": [
+            "the soul, and extinguisheth the life of the spirit.",
+            "the spirit, and extinguisheth the life of the heart.",
+            "the heart, and extinguisheth the life of the soul.",
+            "the mind, and extinguisheth the life of the spleen."
+        ],
+        "correctAnswerIndex": 2,
+        "feedback": " Backbiting quencheth the light of the heart, and extinguisheth the life of the soul."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Which of these subjects would it not be appropriate to discuss during the administrative part of the feast?",
+        "answers": [
+            "The fund.",
+            "Plans for teaching. ",
+            "The NSA's feast letter.",
+            "Baseball scores."
+        ],
+        "correctAnswerIndex": 3,
+        "feedback": "Yes, that was an easy question. No baseball. Wait for the social part."
+    },
+    {
+        "category": "Ruhi Books I & II",
+        "question": "Bahá'u'lláh says 'To give and be generous are . . .",
+        "answers": [
+            "attributes of man",
+            "attributes of Mine.",
+            "attributed to mankind.",
+            "intrinsic to man."
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "To give and be generous are attributes of Mine."
+    },{
+        "category": "Ruhi Books I & II",
+        "question": "Ruhi Book II encourages us to . . .",
+        "answers": [
+            "visit the homes of new believers.",
+            "teach weekly children's classes.",
+            "give to the fund regularly.",
+            "be a beacon of light to the older friends."
+        ],
+        "correctAnswerIndex": 0,
+        "feedback": "Book two encourages us to teach and to visit with new Bahá'is."
+    },{
+        "category": "Ruhi Books I & II",
+        "question": "Ruhi Book II, Part three is about . . .",
+        "answers": [
+            "learning how to get people to sign a card.",
+            "learning how to introduce Bahá'i beleifs. ",
+            "learning how to help people read the writings. ",
+            "learning how to introduce two people who want to get married."
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "Yes, it's all about learning how to introduce Bahá'i beleifs."
+    },{
+        "category": "Ruhi Books I & II",
+        "question": "What have all men been created to do?",
+        "answers": [
+            "Carry on as if nothing really matters.",
+            "Carry on my wayward son, there'll be peace when you are done.",
+            "Praise God and carry on. ",
+            "Carry forward an ever advancing civilization. "
+        ],
+        "correctAnswerIndex": 3,
+        "feedback": "We have been created to carry forward an ever advancing civilization."
+    },{
+        "category": "Ruhi Books I & II",
+        "question": "According to a quote in Ruhi II, should we be concerned with the needs of the age we live in?",
+        "answers": [
+            "Yes, nervously.",
+            "Yes, anxiously.",
+            "No, Let the world burn.",
+            "No, we should never worry. "
+        ],
+        "correctAnswerIndex": 1,
+        "feedback": "Yes, we should anxiously be concerned of the needs of the age in which we live."
+    }
 ]
