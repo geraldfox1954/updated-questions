@@ -116,7 +116,18 @@
 			"It marks the day on which Abdu'l-Baha arrived in America"
 		],
 		"correctAnswerIndex": 0,
-		"feedback": "The 21st of April marks the day that Baha'u'llah declared his mission. "
+		"feedback": "The 21st of April 1863 marks the day that Baha'u'llah declared his mission. "
+	}, {
+		"category": "Category: Bahá’í Basics",
+		"question": "What is the significance of the 21st of April 1864?",
+		"answers": [
+			"It marks the day on which Baha'u'llah declared His mission",
+			"It marks the day on which the Bab was martyred",
+			"It marks the day on which Baha'u'llah arrived in Akka",
+			"It marks the day on which a battle occured in Red Bone M?S"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The 21st of April 1864 Nothing happened. That was 1863 "
 	},
 	{
 		"category": "Category: Bahá’í Basics",
@@ -519,7 +530,7 @@
 		"question": "Which of these is sometimes used as a greeting by the Bahá’ís?",
 		"answers": [
 			"Peace be upon you.",
-			"May God's light shine on you.",
+			"Yo! Dude!",
 			"Alláh-u-Abhá",
 			"Alláh-u-Akbar"
 		],
@@ -3218,11 +3229,10 @@
 			"causing the gem of unity to shine resplendant"
 		],
 		"correctAnswerIndex": 1,
-		"feedback": "We know that'the supreme and distinguishing function'of Bahá’u’lláh’s Revelation is 'none other than the calling into being of a new race of men"
-	},
-	{
+		"feedback": "We know that 'the supreme and distinguishing function' of Bahá’u’lláh’s Revelation is 'none other than the calling into being of a new race of men"
+	}, {
 		"category": "Ruhi Book 3 ",
-		"question": "Soon will the present-day order be ___ up, and a new one ___ out in its stead.",
+		"question": "  ",
 		"answers": [
 			"taken / displayed",
 			"rolled / spread",
@@ -3253,5 +3263,545 @@
 		],
 		"correctAnswerIndex": 1,
 		"feedback": "The companions of God are, in this day, the lump that must leaven the peoples of the world."
+	},
+	{
+		"category": "Category: Global Faith II",
+		"question": "Which of these is the Islamic call to prayer, and is recited five times during the day as a reminder to the followers to get ready for prayer?",
+		"answers": [
+			"Mihrab ",
+			"Muezzin",
+			"Masjid",
+			"Adhan"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The adhan, is a call to prayer by the muezzin, a person appointed to call and then lead the prayer at the masjid (mosque), "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "This is a niche which indicates the direction to Mecca for prayers.",
+		"answers": [
+			"Mihrab ",
+			"Muezzin",
+			"Masjid",
+			"Adhan"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The mihrab is a niche in the wall of the mosque which indicates the direction of the Kaaba in Mecca."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": " Islamic Calendar is based on which of the following cycle?",
+		"answers": [
+			"Solar",
+			"Lunar",
+			"Seasonal",
+			"None of these."
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Islamic Calendar is based on lunar cycle. It is also called Hijri Calendar."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Who is considered the first prophet in Islam?",
+		"answers": [
+			"Adam",
+			"Abraham",
+			"Moses",
+			"Saleh"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Muslims consider Adam to be the first prophet."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "The Declaration of Faith is known as what word in Arabic?",
+		"answers": [
+			"Allah",
+			"Adhan",
+			"Shahada",
+			"Illahi"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The Shahada. The word 'shahada' meaning testify, is the word for Declaration of Faith."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What does Islam mean?",
+		"answers": [
+			"Submission to God",
+			"Belief in God",
+			"Faith in the One God",
+			"Praise of God"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Islam means submission to God. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Who was the first muezzin?",
+		"answers": [
+			"Ali",
+			"Bilal",
+			"Akbar",
+			"Yusef"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Bilal, a slave to a Meccan paganist, accepted Islam a short while after Muhammad's call to prophethood"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What is the First Pillar of Islam?",
+		"answers": [
+			"Prayer",
+			"Giving to Charity",
+			"The Declaration of Faith",
+			"Fasting"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The Declaration of Faith. he second is prayer. The third is giving to charity, the fourth is fasting during the month of Ramadan one month a year, and the fifth is making a pilgrimage to Mecca."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Under which of these names is Jesus known to the Muslims?",
+		"answers": [
+			"Azrael",
+			"Isa",
+			"Yunis",
+			"Jesu"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Jesus is known to Muslims and is called Isa."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What was the name of the last daughter of the Prophet Muhammad",
+		"answers": [
+			"Navvab",
+			"Anisa",
+			"Fatima",
+			"Angelica"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "It is believed that Fatima was born near the time of the Prophet Muhammad's  revelation of the Qu'ran."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What does Jihad literally mean?",
+		"answers": [
+			"Justice",
+			"War",
+			"Energy",
+			"Struggle"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Contrary to popular belief, Islam abhors violence in any form. Jihad is an Arabic word meaning 'struggle'."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Who was the first wife of the Prophet Muhammad?",
+		"answers": [
+			"Fatima",
+			"Maryam",
+			"Khadija",
+			"Alija"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Khadija. She was an affluent buisiness woman and an early believer. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "The Qur'an came down to prophet Muhammad when he was at what age?",
+		"answers": [
+			"25",
+			"30",
+			"35",
+			"40"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Muhammad is the prophet of Islam. When he was 40 years old, Gabriel came down to tell him about the Qur'an and Allah. This all happened in a cave named Hira."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "In Islam, the pre-Islamic era is called what?",
+		"answers": [
+			"Aleawdat iilaa almustaqbal",
+			"Jahiliyyah ",
+			"Dhahab mae alriyh",
+			"Harb alnujum"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Jahiliyyah, This is known as the period of unbelief or ignorance."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "The formal act of a priest pronouncing the forgiveness of sins by Christ.",
+		"answers": [
+			"Absolution",
+			"Absolitude",
+			"Blessed Sacrifice",
+			"Agnostic"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Absolution. The priest removes or absolves you of sin."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Which three books all belong to the Pentateuch?",
+		"answers": [
+			"Genesis, Exodus, Leviticus",
+			"Exodus, Acts, Revelations",
+			"Numbers, Exodus, Psalms",
+			"Numbers, Fractions, Decimals"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "The Pentateuch are the first five books of the Old Testament. These five books are Genesis, Exodus, Leviticus, Numbers, and Deuteronomy"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "According to Matthew 5:3, Blessed are the poor in spirit, for theirs is the . . . ",
+		"answers": [
+			"Kingdom of Heaven",
+			"Kingdom of God",
+			"Kingdom of Peace",
+			"Kingdom of Eternity"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Jesus was judged before the Roman Procurator. What was his name?",
+		"answers": [
+			"Pontiac Pirate",
+			"Ceasar Augustus",
+			"Pontius Pilate",
+			"Turdus Maximus"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Pontius Pilate"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "In Luke Chapter 3, John baptizes his cousin Jesus in the Jordan River. In what form does the Holy Spirit descend on Jesus?",
+		"answers": [
+			"A Swallow",
+			"A dove",
+			"A swan",
+			"A turkey"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "A dove. John the Baptist tells the crowds, 'I baptize you with water... but he will baptize you with the Holy Spirit and with fire.' (Luke 3:16)"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "From what language do we get the word 'Gospel'?",
+		"answers": [
+			"Greek",
+			"Latin",
+			"Hebrew",
+			"Anglo Saxon"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "It comes from the Anglo-Saxon 'godspell', which means 'good news'."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What does the word 'parable' mean?",
+		"answers": [
+			"a spiritual truth told as a story or figurative expression",
+			"a spiritual truth told to children to make them behave.",
+			"a spiritual truth taken with a grain of salt.",
+			"a spiritual truth used to illustrate a path."
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Jesus Christ often used parables to teach a spiritual truth as a story or figurative expression."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Christians believe that Jesus is the son of God, yet most of them also call Him by another name which is?",
+		"answers": [
+			"The son of heaven.",
+			"The light of heaven.",
+			"The son of the One true God.",
+			"The son of man."
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The title 'Son of Man' shows His capacity for overcoming and conquering all the sin that Adam, introduced to the world."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Jesus tells the parable of the Good Samaritan to answer a question. What is this question?",
+		"answers": [
+			"Wouuld you be my neighbor?",
+			"Who is my neighbour?",
+			"Is it a wonderful day in tyhe neighborhood?",
+			"Who is worthy of our aid?"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Jesus then tells the parable of the Good Samaritan, which shows loving one's neighbour, and highlights the principle of loving your enemy as well."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Where was Jesus when the temptations began?",
+		"answers": [
+			"On a mountain",
+			"In a forest",
+			"In a desert",
+			"In a boat"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The Gospels tell us that Jesus was led by the (Holy) Spirit into the desert. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "As Jesus was entering Capernaum he was met by a man in power, and cures the man's servant. What was the position held by this man?",
+		"answers": [
+			"Centurion",
+			"Governor",
+			"Lawyer",
+			"High School Principal"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Jesus healed the centurions servant."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "In Matthew 7:20 Jesus teaches about how to know whether a person is good or bad. How?",
+		"answers": [
+			"By their countanance.",
+			"By their devotion.",
+			"By their parents.",
+			"By their fruits."
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "By looking at the character and actions of a person. Ask yourself, 'What 'fruit' is this person's life bearing?"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What does Jesus promise to those who mourn?",
+		"answers": [
+			"They will be answered.",
+			"They will be comforted",
+			"They will meet again in heaven.",
+			"They will see joy."
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "He promises that they will be comforted."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What is the only Gospel attributed to a non-Jewish writer?",
+		"answers": [
+			"Matthew",
+			"Mark",
+			"Luke",
+			"John"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Luke, a physician, is also credited with writing Acts. These are the only two books of the entire Bible not written by Jewish authors."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "After Jesus was born, where did Mary and Joseph escape to when the baby boys two years of age and under were being killed?",
+		"answers": [
+			"Syria",
+			"Persia",
+			"China",
+			"Egypt"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "An angel appeared to Joseph in a dream. 'Get up,' he said, 'take the child and his mother and escape to Egypt."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "This God is considered the 'destroyer' and is part of the Hindu trinity.",
+		"answers": [
+			"Shiva",
+			"Krishna",
+			"Vishna",
+			"Kalifa"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Shiva is considered the destroyer. His main weapon is the trident."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": " I start praying to the Hindu goddess of knowledge to bless me so that I may pass a big test. What is her name?",
+		"answers": [
+			"Mahadeva",
+			"Saraswati",
+			"Ganesha",
+			"Parvati"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Saraswati is the Hindu goddess of knowledge, music, arts and science. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": " One of the most important gods in the Hindu mythology is believed to have five heads and four arms.",
+		"answers": [
+			"Brahma",
+			"Ganesha",
+			"Lipitor",
+			"Narasimha"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Brahma is believed to have five heads."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "The beginning of the year marks the celebration of the Sankranti or Pongal festival. What does this festival celebrate?",
+		"answers": [
+			"Art and Dance",
+			"Life and Death",
+			"The God Narasimha",
+			"the harvest."
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "This festival is celebrated to mark the harvesting of crops by farmers. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "By what name is the sun god known?",
+		"answers": [
+			"Shakarakand",
+			"Surya",
+			"Sanashain",
+			"Khush"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "The Sun god is known as Surya or Ravi. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Which of the great epics was written by Veda Vyasa, with the help of Ganesha, Shiva's son?",
+		"answers": [
+			"Raviyana",
+			"Ramayana",
+			"Mahabharata",
+			"kaddoo"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "The Mahabharata. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from? Whatever is disagreeable to yourself do not do unto others.",
+		"answers": [
+			"Judaism",
+			"Christianity",
+			"Zoroastrianism",
+			"Islam"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Zoroastrianism"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from? What is hateful to you, do not do to your fellow",
+		"answers": [
+			"Judaism",
+			"Christianity",
+			"Zoroastrianism",
+			"Islam"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Jewish Text. What is hateful to you, do not do to your fellow: this is the whole Torah; the rest is the explanation."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from? Do to others what you would want them to do to you.",
+		"answers": [
+			"Judaism",
+			"Christianity",
+			"Hinduism",
+			"Islam"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Luke 6:31 Do to others what you would want them to do to you."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from? None of you [truly] believes until he wishes for his brother what he wishes for himself.",
+		"answers": [
+			"Judaism",
+			"Christianity",
+			"Hinduism",
+			"Islam"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Islam from An-Nawawi's Forty Hadith"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from? Blessed is he who preferreth his brother before himself.",
+		"answers": [
+			"Baha'i Faith",
+			"Christianity",
+			"Hinduism",
+			"Buddhism"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "From the Baha'i Faith. "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from? Those acts that you consider good when done to you, do those to others, none else.",
+		"answers": [
+			"Baha'i Faith",
+			"Christianity",
+			"Hinduism",
+			"Buddhism"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "Hinduism from the Taittiriya Upanishad "
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from?  Hurt not others in ways that you yourself would find hurtful. ",
+		"answers": [
+			"Baha'i Faith",
+			"Christianity",
+			"Hinduism",
+			"Buddhism"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Hurt not others in ways that you yourself would find hurtful. Udanavarga 5:18"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from?  What you do not wish for yourself, do not do to others.",
+		"answers": [
+			"Jainism",
+			"Confucianism",
+			"Hinduism",
+			"Baha'i Faith"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Confucianism. What you do not wish for yourself, do not do to others."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "What faith  is this from? Regard your neighbor's gain as your own gain, and your neighbor's loss as your own loss.",
+		"answers": [
+			"Jainism",
+			"Confucianism",
+			"Hinduism",
+			"Taoism"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Taoism - Regard your neighbor's gain as your own gain, and your neighbor's loss as your own loss. T'ai Shang Kan Ying P'ien"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Which one of the following is a Tibetan religion widely practiced before the arrival of Buddhism?",
+		"answers": [
+			"Hindu",
+			"Christianity",
+			"Islam",
+			"Bon"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "Bon, the pre-Buddhist Tibetan religious practice, is a shamanistic religion."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "When Buddha was asked if he was a god, how did he answer?",
+		"answers": [
+			"I am alive",
+			"I am He",
+			"I am awake ",
+			"I am that I am"
+		],
+		"correctAnswerIndex": 2,
+		"feedback": "To be awake means to be free from- dreams of delusion, confusion and suffering"
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Which of these terms is a Tibetan word for meditation?",
+		"answers": [
+			"wom",
+			"gom",
+			"pom",
+			"dom"
+		],
+		"correctAnswerIndex": 1,
+		"feedback": "Gom means to familiarize and to build up good habits for the mind."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Anapanna meditation was taught by The Buddha by initially concentrating on what?",
+		"answers": [
+			"silence",
+			"light",
+			"a mountain view",
+			"breath"
+		],
+		"correctAnswerIndex": 3,
+		"feedback": "The establishment of Right Awareness was taught through the observation of breath."
+	}, {
+		"category": "Category: Global Faith II",
+		"question": "Right Samadhi translates as Right what?",
+		"answers": [
+			"Concentration ",
+			"Second Sight",
+			"Life after Death",
+			"Pure Thoughts"
+		],
+		"correctAnswerIndex": 0,
+		"feedback": "Concentration. The crux of Buddha's teachings are contained in 'sila, samadhi and panna' or 'morality, concentration and wisdom'"
 	}
 ]
